@@ -27,6 +27,18 @@ This repository contains Advanced SubStation Alpha (.ass) subtitle files for "Ro
 - Translating subtitles to other languages
 - Improving timing and formatting
 
+## Tools Used
+
+This project wouldn't be possible without these amazing open-source tools:
+
+### [Whisper Desktop](https://github.com/Const-me/Whisper)
+A Windows desktop application implementing OpenAI's Whisper speech recognition model. Used for initial speech-to-text transcription of episodes.
+
+### [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)
+A free and open source editor for video subtitles. Used for fine-tuning timings, formatting, and editing the subtitles.
+
+### [Demucs](https://github.com/adefossez/demucs)
+A state-of-the-art music source separation system. Used to help isolate dialogue from background music and sound effects for clearer transcription.
 
 ## License
 
