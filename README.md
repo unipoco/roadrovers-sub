@@ -30,7 +30,7 @@ This repository contains Advanced SubStation Alpha (.ass) subtitle files for "Ro
 
 ## License
 
-This project is licensed under the [LICENSE NAME] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC-BY-SA-4.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
