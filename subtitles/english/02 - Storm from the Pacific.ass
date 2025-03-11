@@ -12,31 +12,31 @@ Style: fwgDefault, Microsoft YaHei, 16, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.78,0:00:09.97,fwgDefault,None,0000,0000,0000,,Barkin', scratchin',\Nfrisbee-catchin', presidential pets
-Dialogue: 0,0:00:10.26,0:00:10.79,fwgDefault,None,0000,0000,0000,,That's us!
-Dialogue: 0,0:00:10.91,0:00:14.14,fwgDefault,None,0000,0000,0000,,Change into the canines who\Ndrive souped-up cars and jets
-Dialogue: 0,0:00:14.28,0:00:14.79,fwgDefault,None,0000,0000,0000,,Comin' through!
-Dialogue: 0,0:00:15.10,0:00:18.10,fwgDefault,None,0000,0000,0000,,Tuchus-nippin', toilet-sippin',\NSoarin' through the sky
-Dialogue: 0,0:00:18.18,0:00:18.80,fwgDefault,None,0000,0000,0000,,I like it!
-Dialogue: 0,0:00:18.82,0:00:22.03,fwgDefault,None,0000,0000,0000,,Lickin', droolin', quick-refuelin'\Nwho said dogs can't fly
-Dialogue: 0,0:00:22.18,0:00:22.98,fwgDefault,None,0000,0000,0000,,Not me!
-Dialogue: 0,0:00:23.01,0:00:26.06,fwgDefault,None,0000,0000,0000,,Speedin', crashin',\Nvillain-smashin' vehicles explode
-Dialogue: 0,0:00:26.12,0:00:26.86,fwgDefault,None,0000,0000,0000,,Ooh!
-Dialogue: 0,0:00:27.06,0:00:28.63,fwgDefault,None,0000,0000,0000,,Chasing, racing down the road
-Dialogue: 0,0:00:29.05,0:00:30.62,fwgDefault,None,0000,0000,0000,,Road Rovers!
-Dialogue: 0,0:00:30.86,0:00:33.99,fwgDefault,None,0000,0000,0000,,Hunter is a hero\Nhound, leader of the pack
-Dialogue: 0,0:00:34.04,0:00:34.78,fwgDefault,None,0000,0000,0000,,Huh, cool!
-Dialogue: 0,0:00:34.90,0:00:38.12,fwgDefault,None,0000,0000,0000,,Colleen comes from London\Ntown, watch her feet attack
-Dialogue: 0,0:00:39.01,0:00:42.11,fwgDefault,None,0000,0000,0000,,Exile's from Siberia\Nwith super-frozen sight
-Dialogue: 0,0:00:42.15,0:00:42.99,fwgDefault,,0,0,0,,That's me
-Dialogue: 0,0:00:43.02,0:00:46.23,fwgDefault,None,0000,0000,0000,,Blitz to chews on posteriors,\Nhis bark's worse than his bite
-Dialogue: 0,0:00:46.27,0:00:47.02,fwgDefault,None,0000,0000,0000,,I'm perfect.
-Dialogue: 0,0:00:47.04,0:00:50.15,fwgDefault,None,0000,0000,0000,,Shag is strong from head to\Ntoe, a coward through and through
-Dialogue: 0,0:00:51.01,0:00:54.14,fwgDefault,None,0000,0000,0000,,Muzzle's stack is gonna\Nblow, he's short a screw or two
-Dialogue: 0,0:00:54.43,0:00:58.00,fwgDefault,None,0000,0000,0000,,They fight for right both day\Nand night in every episode
-Dialogue: 0,0:00:58.02,0:00:58.94,fwgDefault,None,0000,0000,0000,,Let's roll!
-Dialogue: 0,0:00:59.06,0:01:00.70,fwgDefault,None,0000,0000,0000,,Now it's time to hit the road
-Dialogue: 0,0:01:01.06,0:01:02.95,fwgDefault,None,0000,0000,0000,,Road Rovers!
+Dialogue: 0,0:00:07.06,0:00:10.25,fwgDefault,None,0000,0000,0000,,Barkin', scratchin',\Nfrisbee-catchin', presidential pets
+Dialogue: 0,0:00:10.28,0:00:11.05,fwgDefault,None,0000,0000,0000,,That's us!
+Dialogue: 0,0:00:11.08,0:00:14.29,fwgDefault,None,0000,0000,0000,,Change into the canines who\Ndrive souped-up cars and jets
+Dialogue: 0,0:00:14.32,0:00:15.08,fwgDefault,None,0000,0000,0000,,Comin' through!
+Dialogue: 0,0:00:15.11,0:00:18.41,fwgDefault,None,0000,0000,0000,,Tuchus-nippin', toilet-sippin',\NSoarin' through the sky
+Dialogue: 0,0:00:18.44,0:00:19.03,fwgDefault,None,0000,0000,0000,,I like it!
+Dialogue: 0,0:00:19.05,0:00:22.35,fwgDefault,None,0000,0000,0000,,Lickin', droolin', quick-refuelin'\Nwho said dogs can't fly
+Dialogue: 0,0:00:22.38,0:00:23.04,fwgDefault,None,0000,0000,0000,,Not me!
+Dialogue: 0,0:00:23.07,0:00:26.35,fwgDefault,None,0000,0000,0000,,Speedin', crashin',\Nvillain-smashin' vehicles explode
+Dialogue: 0,0:00:26.39,0:00:27.02,fwgDefault,None,0000,0000,0000,,Ooh!
+Dialogue: 0,0:00:27.04,0:00:28.83,fwgDefault,None,0000,0000,0000,,Chasing, racing down the road
+Dialogue: 0,0:00:29.10,0:00:30.95,fwgDefault,None,0000,0000,0000,,Road Rovers!
+Dialogue: 0,0:00:31.06,0:00:34.23,fwgDefault,None,0000,0000,0000,,Hunter is a hero\Nhound, leader of the pack
+Dialogue: 0,0:00:34.25,0:00:35.06,fwgDefault,None,0000,0000,0000,,Huh, cool!
+Dialogue: 0,0:00:35.08,0:00:38.23,fwgDefault,None,0000,0000,0000,,Colleen comes from London\Ntown, watch her feet attack
+Dialogue: 0,0:00:39.01,0:00:42.27,fwgDefault,None,0000,0000,0000,,Exile's from Siberia\Nwith super-frozen sight
+Dialogue: 0,0:00:42.30,0:00:43.08,fwgDefault,,0,0,0,,That's me
+Dialogue: 0,0:00:43.10,0:00:46.24,fwgDefault,None,0000,0000,0000,,Blitz to chews on posteriors,\Nhis bark's worse than his bite
+Dialogue: 0,0:00:46.26,0:00:47.05,fwgDefault,None,0000,0000,0000,,I'm perfect.
+Dialogue: 0,0:00:47.07,0:00:50.31,fwgDefault,None,0000,0000,0000,,Shag is strong from head to\Ntoe, a coward through and through
+Dialogue: 0,0:00:51.08,0:00:54.33,fwgDefault,None,0000,0000,0000,,Muzzle's stack is gonna\Nblow, he's short a screw or two
+Dialogue: 0,0:00:54.81,0:00:58.26,fwgDefault,None,0000,0000,0000,,They fight for right both day\Nand night in every episode
+Dialogue: 0,0:00:58.28,0:00:59.02,fwgDefault,None,0000,0000,0000,,Let's roll!
+Dialogue: 0,0:00:59.04,0:01:00.75,fwgDefault,None,0000,0000,0000,,Now it's time to hit the road
+Dialogue: 0,0:01:01.10,0:01:03.03,fwgDefault,None,0000,0000,0000,,Road Rovers!
 Dialogue: 0,0:01:33.11,0:01:34.27,fwgDefault,None,0000,0000,0000,,Let's get this stuff out fast!
 Dialogue: 0,0:01:36.74,0:01:37.54,fwgDefault,None,0000,0000,0000,,Where did you come from?
 Dialogue: 0,0:01:44.61,0:01:45.63,fwgDefault,None,0000,0000,0000,,Mayday!\NMayday!
