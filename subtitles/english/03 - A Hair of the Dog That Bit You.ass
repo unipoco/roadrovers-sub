@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Original Script: unipoco
 ScriptType: v4.00+
 Collisions: Normal
@@ -55,7 +55,7 @@ Dialogue: 0,0:01:46.50,0:01:47.96,fwgDefault,None,0000,0000,0000,,Hey! You scat-
 Dialogue: 0,0:01:47.96,0:01:49.53,fwgDefault,None,0000,0000,0000,,You're ruining my home video!
 Dialogue: 0,0:01:50.71,0:01:52.59,fwgDefault,None,0000,0000,0000,,Wait a second, ZZ!
 Dialogue: 0,0:02:09.29,0:02:12.28,fwgDefault,,0,0,0,,Bad dogs! Bad bad dogs!
-Dialogue: 0,0:02:27.49,0:02:29.16,fwgDefault,,0,0,0,,Road rovers let's roll!
+Dialogue: 0,0:02:27.49,0:02:29.16,fwgDefault,,0,0,0,,Road Rovers let's roll!
 Dialogue: 0,0:02:33.19,0:02:35.23,fwgDefault,None,0000,0000,0000,,It's time for the\Ngnashing of tushies!
 Dialogue: 0,0:02:35.48,0:02:36.44,fwgDefault,None,0000,0000,0000,,Don't be a weird boy.
 Dialogue: 0,0:02:44.08,0:02:46.42,fwgDefault,None,0000,0000,0000,,Colleen, I am close relative to wolf.
@@ -238,7 +238,7 @@ Dialogue: 0,0:14:22.70,0:14:24.91,fwgDefault,None,0000,0000,0000,,And you will h
 Dialogue: 0,0:14:24.97,0:14:27.23,fwgDefault,,0,0,0,,But if you fail by the dawn of day...
 Dialogue: 0,0:14:27.32,0:14:29.41,fwgDefault,,0,0,0,,Forever a werewolf, he will stay!
 Dialogue: 0,0:14:29.48,0:14:30.79,fwgDefault,,0,0,0,,That's it! Get out!
-Dialogue: 0,0:14:32.05,0:14:34.53,fwgDefault,None,0000,0000,0000,,Let's get that swamp water\Nrovers. It's back to England.
+Dialogue: 0,0:14:32.05,0:14:34.53,fwgDefault,None,0000,0000,0000,,Let's get that swamp water\NRovers. It's back to England.
 Dialogue: 0,0:14:34.86,0:14:35.72,fwgDefault,None,0000,0000,0000,,Thanks, Confuseus
 Dialogue: 0,0:14:36.06,0:14:37.66,fwgDefault,,0,0,0,,My pleasure! Good luck!
 Dialogue: 0,0:14:37.83,0:14:40.78,fwgDefault,,0,0,0,,Wear seat-belts!\NAnd next time, pick some sourball.
@@ -249,7 +249,7 @@ Dialogue: 0,0:14:50.36,0:14:51.13,fwgDefault,None,0000,0000,0000,,Have we met?
 Dialogue: 0,0:14:51.79,0:14:53.13,fwgDefault,None,0000,0000,0000,,I'm blitz. Remember?
 Dialogue: 0,0:14:53.63,0:14:54.29,fwgDefault,None,0000,0000,0000,,Sorry, governor.
 Dialogue: 0,0:14:54.61,0:14:55.97,fwgDefault,None,0000,0000,0000,,I need a name tag.
-Dialogue: 0,0:14:57.53,0:14:59.14,fwgDefault,None,0000,0000,0000,,Let's hit the road, rovers!
+Dialogue: 0,0:14:57.53,0:14:59.14,fwgDefault,None,0000,0000,0000,,Let's hit the road, Rovers!
 Dialogue: 0,0:14:59.36,0:15:01.19,fwgDefault,None,0000,0000,0000,,Next stop, the English moors.
 Dialogue: 0,0:15:02.92,0:15:05.01,fwgDefault,None,0000,0000,0000,,You should have left\Nme behind, Hunter.
 Dialogue: 0,0:15:05.05,0:15:06.69,fwgDefault,None,0000,0000,0000,,Any minute I could change.
