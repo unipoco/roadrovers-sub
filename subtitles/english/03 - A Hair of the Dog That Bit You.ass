@@ -12,97 +12,96 @@ Style: fwgDefault, Microsoft YaHei, 16, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.78,0:00:09.97,fwgDefault,None,0000,0000,0000,,Barkin', scratchin',\Nfrisbee-catchin', presidential pets
+Dialogue: 0,0:00:06.77,0:00:10.05,fwgDefault,None,0000,0000,0000,,Barkin', scratchin',\Nfrisbee-catchin', presidential pets
 Dialogue: 0,0:00:10.07,0:00:10.73,fwgDefault,None,0000,0000,0000,,That's us!
-Dialogue: 0,0:00:10.84,0:00:14.01,fwgDefault,None,0000,0000,0000,,Change into the canines who\Ndrive souped-up cars and jets
+Dialogue: 0,0:00:10.81,0:00:14.01,fwgDefault,None,0000,0000,0000,,Change into the canines who\Ndrive souped-up cars and jets
 Dialogue: 0,0:00:14.04,0:00:14.88,fwgDefault,None,0000,0000,0000,,Comin' through!
 Dialogue: 0,0:00:14.90,0:00:18.13,fwgDefault,None,0000,0000,0000,,Tuchus-nippin', toilet-sippin',\NSoarin' through the sky
-Dialogue: 0,0:00:18.20,0:00:18.76,fwgDefault,None,0000,0000,0000,,I like it!
-Dialogue: 0,0:00:18.82,0:00:22.13,fwgDefault,None,0000,0000,0000,,Lickin', droolin', quick-refuelin'\Nwho said dogs can't fly
+Dialogue: 0,0:00:18.16,0:00:18.88,fwgDefault,None,0000,0000,0000,,I like it!
+Dialogue: 0,0:00:18.90,0:00:22.13,fwgDefault,None,0000,0000,0000,,Lickin', droolin', quick-refuelin'\Nwho said dogs can't fly
 Dialogue: 0,0:00:22.15,0:00:22.82,fwgDefault,None,0000,0000,0000,,Not me!
 Dialogue: 0,0:00:22.85,0:00:26.08,fwgDefault,None,0000,0000,0000,,Speedin', crashin',\Nvillain-smashin' vehicles explode
 Dialogue: 0,0:00:26.11,0:00:26.74,fwgDefault,None,0000,0000,0000,,Ooh!
-Dialogue: 0,0:00:26.76,0:00:28.55,fwgDefault,None,0000,0000,0000,,Chasing, racing down the road
-Dialogue: 0,0:00:28.88,0:00:30.67,fwgDefault,None,0000,0000,0000,,Road Rovers!
-Dialogue: 0,0:00:30.86,0:00:33.99,fwgDefault,None,0000,0000,0000,,Hunter is a hero\Nhound, leader of the pack
+Dialogue: 0,0:00:26.76,0:00:28.62,fwgDefault,None,0000,0000,0000,,Chasing, racing down the road
+Dialogue: 0,0:00:28.86,0:00:30.67,fwgDefault,None,0000,0000,0000,,Road Rovers!
+Dialogue: 0,0:00:30.82,0:00:33.99,fwgDefault,None,0000,0000,0000,,Hunter is a hero\Nhound, leader of the pack
 Dialogue: 0,0:00:34.02,0:00:34.78,fwgDefault,None,0000,0000,0000,,Huh, cool!
 Dialogue: 0,0:00:34.80,0:00:38.01,fwgDefault,None,0000,0000,0000,,Colleen comes from London\Ntown, watch her feet attack
-Dialogue: 0,0:00:38.80,0:00:42.11,fwgDefault,None,0000,0000,0000,,Exile's from Siberia\Nwith super-frozen sight
-Dialogue: 0,0:00:42.13,0:00:42.85,fwgDefault,,0,0,0,,That's me
+Dialogue: 0,0:00:38.77,0:00:42.07,fwgDefault,None,0000,0000,0000,,Exile's from Siberia\Nwith super-frozen sight
+Dialogue: 0,0:00:42.09,0:00:42.84,fwgDefault,,0,0,0,,That's me
 Dialogue: 0,0:00:42.87,0:00:46.02,fwgDefault,None,0000,0000,0000,,Blitz to chews on posteriors,\Nhis bark's worse than his bite
 Dialogue: 0,0:00:46.06,0:00:46.78,fwgDefault,None,0000,0000,0000,,I'm perfect.
 Dialogue: 0,0:00:46.81,0:00:50.05,fwgDefault,None,0000,0000,0000,,Shag is strong from head to\Ntoe, a coward through and through
 Dialogue: 0,0:00:50.82,0:00:54.07,fwgDefault,None,0000,0000,0000,,Muzzle's stack is gonna\Nblow, he's short a screw or two
 Dialogue: 0,0:00:54.55,0:00:58.00,fwgDefault,None,0000,0000,0000,,They fight for right both day\Nand night in every episode
 Dialogue: 0,0:00:58.02,0:00:58.76,fwgDefault,None,0000,0000,0000,,Let's roll!
-Dialogue: 0,0:00:58.78,0:01:00.57,fwgDefault,None,0000,0000,0000,,Now it's time to hit the road
+Dialogue: 0,0:00:58.78,0:01:00.64,fwgDefault,None,0000,0000,0000,,Now it's time to hit the road
 Dialogue: 0,0:01:00.84,0:01:02.77,fwgDefault,None,0000,0000,0000,,Road Rovers!
-Dialogue: 0,0:01:11.70,0:01:14.09,fwgDefault,None,0000,0000,0000,,Now Charles, let's\Nrun through this again.
-Dialogue: 0,0:01:14.66,0:01:15.64,fwgDefault,None,0000,0000,0000,,I get the country home.
-Dialogue: 0,0:01:15.99,0:01:17.04,fwgDefault,None,0000,0000,0000,,Yes, Dime.
-Dialogue: 0,0:01:17.31,0:01:19.56,fwgDefault,None,0000,0000,0000,,And the cars, including\Nthe Bentley and the Rolls.
-Dialogue: 0,0:01:19.91,0:01:20.68,fwgDefault,None,0000,0000,0000,,Yes, Dime.
-Dialogue: 0,0:01:21.17,0:01:22.53,fwgDefault,None,0000,0000,0000,,And the Diamond Tiara.
-Dialogue: 0,0:01:22.73,0:01:24.92,fwgDefault,None,0000,0000,0000,,Ah, what a charming dog.
+Dialogue: 0,0:01:11.66,0:01:14.15,fwgDefault,None,0000,0000,0000,,Now Charles, let's\Nrun through this again.
+Dialogue: 0,0:01:14.63,0:01:15.91,fwgDefault,None,0000,0000,0000,,I get the country home.
+Dialogue: 0,0:01:15.96,0:01:17.20,fwgDefault,None,0000,0000,0000,,Yes, Dime.
+Dialogue: 0,0:01:17.23,0:01:19.82,fwgDefault,None,0000,0000,0000,,And the cars, including\Nthe Bentley and the Rolls.
+Dialogue: 0,0:01:19.85,0:01:20.96,fwgDefault,None,0000,0000,0000,,Yes, Dime.
+Dialogue: 0,0:01:21.15,0:01:22.64,fwgDefault,None,0000,0000,0000,,And the Diamond Tiara.
+Dialogue: 0,0:01:22.70,0:01:25.17,fwgDefault,None,0000,0000,0000,,Ah, what a charming dog.
 Dialogue: 0,0:01:25.46,0:01:26.75,fwgDefault,None,0000,0000,0000,,Here, boy. Here.
-Dialogue: 0,0:01:31.11,0:01:32.98,fwgDefault,None,0000,0000,0000,,And over here is Big Ol' Ben.
-Dialogue: 0,0:01:33.18,0:01:34.44,fwgDefault,None,0000,0000,0000,,Whoo-ee! Hehe
-Dialogue: 0,0:01:34.44,0:01:35.74,fwgDefault,None,0000,0000,0000,,That's a big clock. Haha
-Dialogue: 0,0:01:36.23,0:01:39.71,fwgDefault,None,0000,0000,0000,,Bet you take some humongous\Nbatteries and quadruple E.
-Dialogue: 0,0:01:41.31,0:01:41.77,fwgDefault,None,0000,0000,0000,,You know what?
+Dialogue: 0,0:01:31.08,0:01:33.01,fwgDefault,None,0000,0000,0000,,And over here is Big Ol' Ben.
+Dialogue: 0,0:01:33.13,0:01:35.74,fwgDefault,None,0000,0000,0000,,Whoo-ee! Hehe\NThat's a big clock. Haha
+Dialogue: 0,0:01:36.19,0:01:39.74,fwgDefault,None,0000,0000,0000,,Bet you take some humongous\Nbatteries and quadruple E.
+Dialogue: 0,0:01:41.26,0:01:41.77,fwgDefault,None,0000,0000,0000,,You know what?
 Dialogue: 0,0:01:41.82,0:01:43.67,fwgDefault,None,0000,0000,0000,,It takes a lick and\Nit keeps on tickin'!
-Dialogue: 0,0:01:46.50,0:01:47.96,fwgDefault,None,0000,0000,0000,,Hey! You scat-dogs!
-Dialogue: 0,0:01:47.96,0:01:49.53,fwgDefault,None,0000,0000,0000,,You're ruining my home video!
+Dialogue: 0,0:01:46.46,0:01:47.94,fwgDefault,None,0000,0000,0000,,Hey! You scat-dogs!
+Dialogue: 0,0:01:47.96,0:01:49.62,fwgDefault,None,0000,0000,0000,,You're ruining my home video!
 Dialogue: 0,0:01:50.71,0:01:52.59,fwgDefault,None,0000,0000,0000,,Wait a second, ZZ!
 Dialogue: 0,0:02:09.29,0:02:12.28,fwgDefault,,0,0,0,,Bad dogs! Bad bad dogs!
 Dialogue: 0,0:02:27.49,0:02:29.16,fwgDefault,,0,0,0,,Road Rovers let's roll!
-Dialogue: 0,0:02:33.19,0:02:35.23,fwgDefault,None,0000,0000,0000,,It's time for the\Ngnashing of tushies!
-Dialogue: 0,0:02:35.48,0:02:36.44,fwgDefault,None,0000,0000,0000,,Don't be a weird boy.
-Dialogue: 0,0:02:44.08,0:02:46.42,fwgDefault,None,0000,0000,0000,,Colleen, I am close relative to wolf.
+Dialogue: 0,0:02:32.80,0:02:35.23,fwgDefault,None,0000,0000,0000,,It's time for the\Ngnashing of tushies!
+Dialogue: 0,0:02:35.44,0:02:36.52,fwgDefault,None,0000,0000,0000,,Don't be a weird boy.
+Dialogue: 0,0:02:44.03,0:02:46.42,fwgDefault,None,0000,0000,0000,,Colleen, I am close relative to wolf.
 Dialogue: 0,0:02:46.58,0:02:48.82,fwgDefault,None,0000,0000,0000,,Let me talk to them\Nin their native tongue.
-Dialogue: 0,0:02:49.27,0:02:50.44,fwgDefault,None,0000,0000,0000,,Be my guest, Exile.
+Dialogue: 0,0:02:49.27,0:02:50.46,fwgDefault,None,0000,0000,0000,,Be my guest, Exile.
 Dialogue: 0,0:02:55.40,0:02:57.61,fwgDefault,,0,0,0,,Yeah, definitely not from\Naround these neighbors.
 Dialogue: 0,0:02:58.29,0:02:59.44,fwgDefault,,0,0,0,,Maybe they're French!
 Dialogue: 0,0:03:12.54,0:03:14.59,fwgDefault,,0,0,0,,You are the worst driver in the world.
-Dialogue: 0,0:03:18.53,0:03:21.37,fwgDefault,,0,0,0,,If you don't mind, I'd like\Nyou to meet my boyfriend.
+Dialogue: 0,0:03:18.49,0:03:21.41,fwgDefault,,0,0,0,,If you don't mind, I'd like\Nyou to meet my boyfriend.
 Dialogue: 0,0:03:22.12,0:03:23.46,fwgDefault,,0,0,0,,We're going steady.
 Dialogue: 0,0:03:27.05,0:03:28.90,fwgDefault,,0,0,0,,Maybe they'd like to play a game of catch!
-Dialogue: 0,0:03:29.35,0:03:30.13,fwgDefault,,0,0,0,,
+Dialogue: 0,0:03:29.29,0:03:30.23,fwgDefault,,0,0,0,,I don't get it!
 Dialogue: 0,0:03:30.51,0:03:31.80,fwgDefault,,0,0,0,,What are you gonna do with that?
-Dialogue: 0,0:03:35.21,0:03:36.55,fwgDefault,,0,0,0,,Ah, well I get it.
-Dialogue: 0,0:03:37.13,0:03:37.91,fwgDefault,,0,0,0,,You wanna try one?
-Dialogue: 0,0:03:38.45,0:03:41.26,fwgDefault,None,0000,0000,0000,,Eh, maybe later,\Nin my next lifetime.
+Dialogue: 0,0:03:35.18,0:03:36.62,fwgDefault,,0,0,0,,Ah, well I get it.
+Dialogue: 0,0:03:37.13,0:03:37.99,fwgDefault,,0,0,0,,You wanna try one?
+Dialogue: 0,0:03:38.41,0:03:41.26,fwgDefault,None,0000,0000,0000,,Eh, maybe later,\Nin my next lifetime.
 Dialogue: 0,0:03:41.84,0:03:42.76,fwgDefault,None,0000,0000,0000,,Cool, call me.
-Dialogue: 0,0:03:52.90,0:03:54.26,fwgDefault,None,0000,0000,0000,,You can do this, Shad!
+Dialogue: 0,0:03:52.88,0:03:54.26,fwgDefault,None,0000,0000,0000,,You can do this, Shad!
 Dialogue: 0,0:03:54.48,0:03:56.52,fwgDefault,None,0000,0000,0000,,You just need courage,\Nyou need strength!
-Dialogue: 0,0:03:56.92,0:04:01.25,fwgDefault,None,0000,0000,0000,,And most of all, you need our\Nbrand new Road Rover missile launcher!
-Dialogue: 0,0:04:01.52,0:04:02.69,fwgDefault,None,0000,0000,0000,,It is fun!
-Dialogue: 0,0:04:08.63,0:04:11.91,fwgDefault,None,0000,0000,0000,,Shag, we definitely gotta get you\Na refresher course on the launcher.
+Dialogue: 0,0:03:56.92,0:04:01.27,fwgDefault,None,0000,0000,0000,,And most of all, you need our\Nbrand new Road Rover missile launcher!
+Dialogue: 0,0:04:01.45,0:04:02.69,fwgDefault,None,0000,0000,0000,,It is fun!
+Dialogue: 0,0:04:08.46,0:04:11.91,fwgDefault,None,0000,0000,0000,,Shag, we definitely gotta get you\Na refresher course on the launcher.
 Dialogue: 0,0:04:14.58,0:04:16.57,fwgDefault,,0,0,0,,Hi-ya Ma-donna!
-Dialogue: 0,0:04:31.25,0:04:31.85,fwgDefault,,0,0,0,,Eww, gross!
-Dialogue: 0,0:04:32.66,0:04:33.32,fwgDefault,,0,0,0,,Blimey!
-Dialogue: 0,0:04:33.81,0:04:37.60,fwgDefault,,0,0,0,,Do you know how much trouble I\Ngo through every day to look this way?
-Dialogue: 0,0:04:43.90,0:04:45.78,fwgDefault,,0,0,0,,Ta-da! Don't bother to ride!
-Dialogue: 0,0:04:46.05,0:04:48.51,fwgDefault,None,0000,0000,0000,,Wow, Exile, when did\Nyou learn how to do that?
-Dialogue: 0,0:04:49.15,0:04:50.68,fwgDefault,None,0000,0000,0000,,I'm called Siberian Knights.
-Dialogue: 0,0:04:51.01,0:04:51.88,fwgDefault,None,0000,0000,0000,,It comes in handy.
+Dialogue: 0,0:04:30.40,0:04:32.12,fwgDefault,,0,0,0,,Eww, gross!
+Dialogue: 0,0:04:32.64,0:04:33.32,fwgDefault,,0,0,0,,Blimey!
+Dialogue: 0,0:04:33.76,0:04:37.60,fwgDefault,,0,0,0,,Do you know how much trouble I\Ngo through every day to look this way?
+Dialogue: 0,0:04:43.74,0:04:45.82,fwgDefault,,0,0,0,,Ta-ta! Don't bother to write!
+Dialogue: 0,0:04:46.05,0:04:48.73,fwgDefault,None,0000,0000,0000,,Wow, Exile, when did\Nyou learn how to do that?
+Dialogue: 0,0:04:49.07,0:04:50.83,fwgDefault,None,0000,0000,0000,,I'm called Siberian Knights.
+Dialogue: 0,0:04:50.92,0:04:51.88,fwgDefault,None,0000,0000,0000,,It comes in handy.
 Dialogue: 0,0:04:52.84,0:04:54.99,fwgDefault,None,0000,0000,0000,,Oh, that bungle tuckered\Nme bones a bit, now.
 Dialogue: 0,0:04:55.51,0:04:56.52,fwgDefault,None,0000,0000,0000,,Yeah, what she said.
-Dialogue: 0,0:04:57.15,0:04:59.42,fwgDefault,None,0000,0000,0000,,I am feeling not so hot myself.
+Dialogue: 0,0:04:57.15,0:04:59.46,fwgDefault,None,0000,0000,0000,,I am feeling not so hot myself.
 Dialogue: 0,0:05:00.99,0:05:02.35,fwgDefault,None,0000,0000,0000,,Let's head home, Rovers.
-Dialogue: 0,0:05:02.55,0:05:04.33,fwgDefault,None,0000,0000,0000,,Our job here is done.
+Dialogue: 0,0:05:02.52,0:05:04.33,fwgDefault,None,0000,0000,0000,,Our job here is done.
 Dialogue: 0,0:05:06.10,0:05:07.32,fwgDefault,None,0000,0000,0000,,This is troubling, Rovers.
-Dialogue: 0,0:05:07.89,0:05:10.03,fwgDefault,None,0000,0000,0000,,First the reports of\Nthose roaming wolf packs,
+Dialogue: 0,0:05:07.86,0:05:10.03,fwgDefault,None,0000,0000,0000,,First the reports of\Nthose roaming wolf packs,
 Dialogue: 0,0:05:10.21,0:05:11.97,fwgDefault,None,0000,0000,0000,,then the disappearance\Nof the royal family,
 Dialogue: 0,0:05:12.48,0:05:13.34,fwgDefault,None,0000,0000,0000,,and now this.
 Dialogue: 0,0:05:13.77,0:05:14.49,fwgDefault,None,0000,0000,0000,,Does this hurt?
-Dialogue: 0,0:05:14.89,0:05:15.25,fwgDefault,None,0000,0000,0000,,Нет(no)
+Dialogue: 0,0:05:14.83,0:05:15.25,fwgDefault,None,0000,0000,0000,,Нет (No)
 Dialogue: 0,0:05:15.56,0:05:16.34,fwgDefault,None,0000,0000,0000,,Does this hurt?
-Dialogue: 0,0:05:16.69,0:05:17.03,fwgDefault,None,0000,0000,0000,,Нет(no)
+Dialogue: 0,0:05:16.69,0:05:17.03,fwgDefault,None,0000,0000,0000,,Нет (No)
 Dialogue: 0,0:05:17.34,0:05:17.95,fwgDefault,None,0000,0000,0000,,Does this hurt?
 Dialogue: 0,0:05:18.11,0:05:19.52,fwgDefault,None,0000,0000,0000,,Arrgh да(yes)! да(yes)!
-Dialogue: 0,0:05:20.32,0:05:21.52,fwgDefault,,0,0,0,,I found out what hurts!
-Dialogue: 0,0:05:22.68,0:05:24.68,fwgDefault,None,0000,0000,0000,,We also found this.
+Dialogue: 0,0:05:20.32,0:05:21.54,fwgDefault,,0,0,0,,I found out what hurts!
+Dialogue: 0,0:05:22.68,0:05:24.70,fwgDefault,None,0000,0000,0000,,We also found this.
 Dialogue: 0,0:05:24.97,0:05:27.38,fwgDefault,None,0000,0000,0000,,Must be from those\Nwolves with lips that foam!
 Dialogue: 0,0:05:27.89,0:05:28.59,fwgDefault,None,0000,0000,0000,,Might be.
 Dialogue: 0,0:05:28.71,0:05:29.73,fwgDefault,None,0000,0000,0000,,We should get it tested.
@@ -113,31 +112,30 @@ Dialogue: 0,0:05:38.93,0:05:40.27,fwgDefault,None,0000,0000,0000,,Where did you 
 Dialogue: 0,0:05:40.80,0:05:43.02,fwgDefault,None,0000,0000,0000,,It's something we picked up\Nin London, Professor Hubert.
 Dialogue: 0,0:05:43.27,0:05:44.40,fwgDefault,None,0000,0000,0000,,Can you get a fix on it?
 Dialogue: 0,0:05:45.00,0:05:46.09,fwgDefault,None,0000,0000,0000,,Certainly, my boy.
-Dialogue: 0,0:05:46.37,0:05:47.13,fwgDefault,None,0000,0000,0000,,I'm a bloodhound.
-Dialogue: 0,0:05:47.52,0:05:49.74,fwgDefault,None,0000,0000,0000,,possessing the world's\Nmost sensitive canine nose.
+Dialogue: 0,0:05:46.32,0:05:47.13,fwgDefault,None,0000,0000,0000,,I'm a bloodhound.
+Dialogue: 0,0:05:47.50,0:05:49.74,fwgDefault,None,0000,0000,0000,,Possessing the world's\Nmost sensitive canine nose.
 Dialogue: 0,0:05:50.87,0:05:52.14,fwgDefault,None,0000,0000,0000,,And you've had garlic.
 Dialogue: 0,0:05:52.52,0:05:53.13,fwgDefault,None,0000,0000,0000,,Huh?
 Dialogue: 0,0:05:54.79,0:05:55.62,fwgDefault,None,0000,0000,0000,,With anchovies.
-Dialogue: 0,0:06:02.05,0:06:03.74,fwgDefault,None,0000,0000,0000,,So will your analysis take long?
+Dialogue: 0,0:06:02.03,0:06:03.74,fwgDefault,None,0000,0000,0000,,So will your analysis take long?
 Dialogue: 0,0:06:04.03,0:06:06.31,fwgDefault,None,0000,0000,0000,,To do this right, I'll need\Nto compare this sample
 Dialogue: 0,0:06:06.33,0:06:08.24,fwgDefault,None,0000,0000,0000,,to the scent of every\Ncreature on the planet.
 Dialogue: 0,0:06:08.56,0:06:10.20,fwgDefault,None,0000,0000,0000,,I'll have the results\Nfor you by morning.
 Dialogue: 0,0:06:12.74,0:06:13.85,fwgDefault,None,0000,0000,0000,,Aardvark? No.
 Dialogue: 0,0:06:15.28,0:06:16.28,fwgDefault,None,0000,0000,0000,,Alligator? No.
-Dialogue: 0,0:06:17.60,0:06:18.20,fwgDefault,None,0000,0000,0000,,Anaconda?
-Dialogue: 0,0:06:18.42,0:06:18.78,fwgDefault,None,0000,0000,0000,,No.
-Dialogue: 0,0:06:18.97,0:06:21.67,fwgDefault,None,0000,0000,0000,,The morning of June 11th, 2870.
+Dialogue: 0,0:06:17.60,0:06:18.68,fwgDefault,None,0000,0000,0000,,Anaconda?\NNo.
+Dialogue: 0,0:06:18.94,0:06:21.67,fwgDefault,None,0000,0000,0000,,The morning of June 11th, 2870.
 Dialogue: 0,0:08:29.40,0:08:32.11,fwgDefault,None,0000,0000,0000,,Ah Blitz, you are so handsome.
 Dialogue: 0,0:08:35.24,0:08:38.78,fwgDefault,None,0000,0000,0000,,I could look at you all night,\Nyou big hunk of dog muscle, you.
 Dialogue: 0,0:08:39.37,0:08:42.91,fwgDefault,None,0000,0000,0000,,You know, I'm so pretty I could\Nkiss myself all over, which I will.
 Dialogue: 0,0:08:44.61,0:08:45.77,fwgDefault,None,0000,0000,0000,,Because I can!
 Dialogue: 0,0:08:47.89,0:08:49.47,fwgDefault,None,0000,0000,0000,,Hey, what are you doing here?
 Dialogue: 0,0:09:15.53,0:09:17.46,fwgDefault,None,0000,0000,0000,,This isn't working, mop boy.
-Dialogue: 0,0:09:23.87,0:09:26.17,fwgDefault,,0,0,0,,Mom-my!
+Dialogue: 0,0:09:23.87,0:09:26.17,fwgDefault,,0,0,0,,Mommmy!
 Dialogue: 0,0:09:27.53,0:09:28.52,fwgDefault,None,0000,0000,0000,,Baboon? No.
 Dialogue: 0,0:09:29.07,0:09:30.64,fwgDefault,None,0000,0000,0000,,How are the lab\Ntests going, professor?
 Dialogue: 0,0:09:31.38,0:09:33.42,fwgDefault,None,0000,0000,0000,,Good news, I'm\Nalready on the Bs.
-Dialogue: 0,0:09:34.68,0:09:35.65,fwgDefault,None,0000,0000,0000,,Badger?\NNo.
+Dialogue: 0,0:09:34.62,0:09:35.65,fwgDefault,None,0000,0000,0000,,Badger?\NNo.
 Dialogue: 0,0:09:36.92,0:09:37.89,fwgDefault,None,0000,0000,0000,,Bandicoot? No.
 Dialogue: 0,0:09:38.77,0:09:40.18,fwgDefault,None,0000,0000,0000,,Bandicoot, cool.
 Dialogue: 0,0:09:43.71,0:09:44.85,fwgDefault,None,0000,0000,0000,,What's the problem, buddy?
@@ -149,19 +147,19 @@ Dialogue: 0,0:10:09.00,0:10:11.66,fwgDefault,,0,0,0,,No! I saw it too! It was bi
 Dialogue: 0,0:10:11.69,0:10:14.47,fwgDefault,,0,0,0,,ugly and huge with dripping fangs and...
 Dialogue: 0,0:10:15.99,0:10:17.97,fwgDefault,,0,0,0,,But I wasn't scared, no, not one bit.
 Dialogue: 0,0:10:18.61,0:10:20.82,fwgDefault,,0,0,0,,You're both acting like little babies.
-Dialogue: 0,0:10:25.90,0:10:28.09,fwgDefault,None,0000,0000,0000,,Okay, who got\Ninto the chocolates?
+Dialogue: 0,0:10:25.87,0:10:28.09,fwgDefault,None,0000,0000,0000,,Okay, who got\Ninto the chocolates?
 Dialogue: 0,0:10:28.40,0:10:30.69,fwgDefault,None,0000,0000,0000,,Whoever it was\Nwent into Exile's room.
-Dialogue: 0,0:10:34.63,0:10:35.37,fwgDefault,None,0000,0000,0000,,Yo, Exile.
+Dialogue: 0,0:10:34.53,0:10:35.37,fwgDefault,None,0000,0000,0000,,Yo, Exile.
 Dialogue: 0,0:10:36.50,0:10:37.96,fwgDefault,None,0000,0000,0000,,Wake up, buddy. Move it!
-Dialogue: 0,0:10:39.20,0:10:40.24,fwgDefault,None,0000,0000,0000,,Quit rushing me.
-Dialogue: 0,0:10:44.03,0:10:46.03,fwgDefault,None,0000,0000,0000,,I suppose this is your werewolf?
-Dialogue: 0,0:10:46.42,0:10:47.22,fwgDefault,None,0000,0000,0000,,Who, me?
+Dialogue: 0,0:10:39.19,0:10:40.33,fwgDefault,None,0000,0000,0000,,Quit rushing me.
+Dialogue: 0,0:10:44.00,0:10:46.03,fwgDefault,None,0000,0000,0000,,I suppose this is your werewolf?
+Dialogue: 0,0:10:46.39,0:10:47.22,fwgDefault,None,0000,0000,0000,,Who, me?
 Dialogue: 0,0:10:47.78,0:10:50.30,fwgDefault,None,0000,0000,0000,,Blimey, could you\Nblokes keep it down?
 Dialogue: 0,0:10:50.73,0:10:52.63,fwgDefault,None,0000,0000,0000,,I need my bloomin' beauty sleep.
 Dialogue: 0,0:10:53.13,0:10:54.26,fwgDefault,None,0000,0000,0000,,I'll say!
-Dialogue: 0,0:10:54.62,0:10:55.76,fwgDefault,None,0000,0000,0000,,Uh-huh-huh.
+Dialogue: 0,0:10:54.62,0:10:55.74,fwgDefault,None,0000,0000,0000,,Uh-huh-huh.
 Dialogue: 0,0:10:55.76,0:10:57.49,fwgDefault,None,0000,0000,0000,,There's your comedy.
-Dialogue: 0,0:10:58.01,0:11:00.18,fwgDefault,None,0000,0000,0000,,Sorry, Colleen, but\Nthe boys here think
+Dialogue: 0,0:10:57.94,0:11:00.18,fwgDefault,None,0000,0000,0000,,Sorry, Colleen, but\Nthe boys here think
 Dialogue: 0,0:11:00.20,0:11:02.32,fwgDefault,None,0000,0000,0000,,we've gotten uninvited\Nguests in the house.
 Dialogue: 0,0:11:02.82,0:11:04.88,fwgDefault,None,0000,0000,0000,,Well, if you see them,\Ntell them to pipe down.
 Dialogue: 0,0:11:04.90,0:11:05.89,fwgDefault,None,0000,0000,0000,,I'm going back to bed.
@@ -178,18 +176,18 @@ Dialogue: 0,0:11:35.52,0:11:36.66,fwgDefault,None,0000,0000,0000,,Whale? No.
 Dialogue: 0,0:11:38.43,0:11:39.08,fwgDefault,None,0000,0000,0000,,Wolf?
 Dialogue: 0,0:11:40.40,0:11:41.53,fwgDefault,,0,0,0,,Yes!
 Dialogue: 0,0:11:46.56,0:11:49.00,fwgDefault,None,0000,0000,0000,,Interesting, very interesting
-Dialogue: 0,0:11:50.48,0:11:52.18,fwgDefault,None,0000,0000,0000,,The testing is complete
-Dialogue: 0,0:11:52.20,0:11:53.27,fwgDefault,None,0000,0000,0000,,Good job professor!
+Dialogue: 0,0:11:50.47,0:11:51.94,fwgDefault,None,0000,0000,0000,,The testing is complete
+Dialogue: 0,0:11:52.06,0:11:53.27,fwgDefault,None,0000,0000,0000,,Good job professor!
 Dialogue: 0,0:11:53.82,0:11:55.02,fwgDefault,,0,0,0,,Nothing to it, Hunter
 Dialogue: 0,0:11:55.25,0:11:58.53,fwgDefault,None,0000,0000,0000,,I do have the most sensitive nasal\Ndetection system in the world you know
 Dialogue: 0,0:11:59.98,0:12:02.96,fwgDefault,None,0000,0000,0000,,and you sir are currently in the\Npossession of a footlong hot dog
 Dialogue: 0,0:12:03.54,0:12:05.29,fwgDefault,None,0000,0000,0000,,with mustard relish and onions
 Dialogue: 0,0:12:06.86,0:12:08.68,fwgDefault,None,0000,0000,0000,,You wouldn't happen to\Nhave an extra one would you?
 Dialogue: 0,0:12:09.83,0:12:10.73,fwgDefault,None,0000,0000,0000,,Ah thanks
-Dialogue: 0,0:12:13.92,0:12:16.29,fwgDefault,None,0000,0000,0000,,So professor, what'd you find out about the fur?
+Dialogue: 0,0:12:13.92,0:12:16.29,fwgDefault,None,0000,0000,0000,,So professor, what'd\Nyou find out about the fur?
 Dialogue: 0,0:12:17.17,0:12:19.30,fwgDefault,None,0000,0000,0000,,Although it appears to be from a wolf,
 Dialogue: 0,0:12:19.55,0:12:22.39,fwgDefault,,0,0,0,,Closer analysis proves it\Noriginates in fact from
-Dialogue: 0,0:12:23.05,0:12:24.52,fwgDefault,,0,0,0,,A werewolf
+Dialogue: 0,0:12:23.02,0:12:24.52,fwgDefault,,0,0,0,,A werewolf
 Dialogue: 0,0:12:26.37,0:12:28.25,fwgDefault,None,0000,0000,0000,,I would not have predicted this.
 Dialogue: 0,0:12:28.64,0:12:30.90,fwgDefault,None,0000,0000,0000,,See? I told you it was a werewolf.
 Dialogue: 0,0:12:30.93,0:12:33.31,fwgDefault,,0,0,0,,And it went straight into Exile's room.
@@ -205,13 +203,13 @@ Dialogue: 0,0:12:50.88,0:12:53.71,fwgDefault,None,0000,0000,0000,,According to l
 Dialogue: 0,0:12:53.74,0:12:57.19,fwgDefault,,0,0,0,,once victim is beaten or\Nscratched during full moon,
 Dialogue: 0,0:12:57.21,0:12:59.72,fwgDefault,,0,0,0,,He turns into a raging monstrous beast!
 Dialogue: 0,0:13:00.45,0:13:01.59,fwgDefault,,0,0,0,,Sounds like a fun date.
-Dialogue: 0,0:13:02.35,0:13:03.79,fwgDefault,None,0000,0000,0000,,It's нет(not) fun-ski it is me it is
+Dialogue: 0,0:13:02.35,0:13:03.79,fwgDefault,None,0000,0000,0000,,It's нет(no) fun-ski.
 Dialogue: 0,0:13:04.43,0:13:07.81,fwgDefault,None,0000,0000,0000,,It is me, it is Curse of Werewolf.
 Dialogue: 0,0:13:08.25,0:13:10.94,fwgDefault,,0,0,0,,Oh, I miss Mother Russia.
 Dialogue: 0,0:13:10.98,0:13:13.93,fwgDefault,None,0000,0000,0000,,Father Russia I don't miss much.\NHe was big grump.
 Dialogue: 0,0:13:14.62,0:13:16.69,fwgDefault,None,0000,0000,0000,,But mother Russia I miss.
 Dialogue: 0,0:13:17.92,0:13:20.74,fwgDefault,None,0000,0000,0000,,Listen to the sad strains of the Baralaika.
-Dialogue: 0,0:13:20.77,0:13:22.46,fwgDefault,None,0000,0000,0000,,I hate it so--
+Dialogue: 0,0:13:20.77,0:13:22.46,fwgDefault,None,0000,0000,0000,,I hate it so...
 Dialogue: 0,0:13:22.49,0:13:24.03,fwgDefault,,0,0,0,,Somebody shut that thing up!
 Dialogue: 0,0:13:25.43,0:13:27.65,fwgDefault,None,0000,0000,0000,,Tonight there is another full moon
 Dialogue: 0,0:13:28.15,0:13:30.13,fwgDefault,,0,0,0,,Lock me up and throw away key!
@@ -222,7 +220,7 @@ Dialogue: 0,0:13:40.57,0:13:41.83,fwgDefault,,0,0,0,,Confuseus!
 Dialogue: 0,0:13:45.58,0:13:47.82,fwgDefault,,0,0,0,,Ol' Confuseus we seek your wisdom
 Dialogue: 0,0:13:48.56,0:13:49.99,fwgDefault,None,0000,0000,0000,,Did you bring the cocktail weenies?
 Dialogue: 0,0:13:50.40,0:13:51.02,fwgDefault,,0,0,0,,Yes sir!
-Dialogue: 0,0:13:51.40,0:13:53.50,fwgDefault,,0,0,0,,Ah! Oh, the Cheezee kind!
+Dialogue: 0,0:13:51.37,0:13:53.50,fwgDefault,,0,0,0,,Ah! Oh, the Cheezee kind!
 Dialogue: 0,0:13:53.78,0:13:55.29,fwgDefault,,0,0,0,,Good! Just leave the box!
 Dialogue: 0,0:13:55.67,0:13:56.87,fwgDefault,,0,0,0,,Yeah, the entire box!
 Dialogue: 0,0:13:58.73,0:13:59.77,fwgDefault,,0,0,0,,What can I do for you?
@@ -233,8 +231,8 @@ Dialogue: 0,0:14:09.25,0:14:10.22,fwgDefault,None,0000,0000,0000,,Right! Got it!
 Dialogue: 0,0:14:13.46,0:14:14.10,fwgDefault,None,0000,0000,0000,,Pardon me
 Dialogue: 0,0:14:15.48,0:14:17.45,fwgDefault,None,0000,0000,0000,,The victim's problem\Nwill have ceased
 Dialogue: 0,0:14:17.75,0:14:19.86,fwgDefault,None,0000,0000,0000,,when you find the\Ndrool of the beast
-Dialogue: 0,0:14:20.35,0:14:22.49,fwgDefault,None,0000,0000,0000,,Add water from the English moor,
-Dialogue: 0,0:14:22.70,0:14:24.91,fwgDefault,None,0000,0000,0000,,And you will have the perfect cure.
+Dialogue: 0,0:14:20.33,0:14:22.49,fwgDefault,None,0000,0000,0000,,Add water from the English moor,
+Dialogue: 0,0:14:22.68,0:14:24.91,fwgDefault,None,0000,0000,0000,,And you will have the perfect cure.
 Dialogue: 0,0:14:24.97,0:14:27.23,fwgDefault,,0,0,0,,But if you fail by the dawn of day...
 Dialogue: 0,0:14:27.32,0:14:29.41,fwgDefault,,0,0,0,,Forever a werewolf, he will stay!
 Dialogue: 0,0:14:29.48,0:14:30.79,fwgDefault,,0,0,0,,That's it! Get out!
@@ -242,18 +240,18 @@ Dialogue: 0,0:14:32.05,0:14:34.53,fwgDefault,None,0000,0000,0000,,Let's get that
 Dialogue: 0,0:14:34.86,0:14:35.72,fwgDefault,None,0000,0000,0000,,Thanks, Confuseus
 Dialogue: 0,0:14:36.06,0:14:37.66,fwgDefault,,0,0,0,,My pleasure! Good luck!
 Dialogue: 0,0:14:37.83,0:14:40.78,fwgDefault,,0,0,0,,Wear seat-belts!\NAnd next time, pick some sourball.
-Dialogue: 0,0:14:41.02,0:14:45.81,fwgDefault,,0,0,0,,[freestyle]
-Dialogue: 0,0:14:46.20,0:14:48.06,fwgDefault,None,0000,0000,0000,,Okay, Shag and Exile\Nwill go with me.
+Dialogue: 0,0:14:40.99,0:14:45.81,fwgDefault,,0,0,0,,[freestyle]
+Dialogue: 0,0:14:46.18,0:14:48.06,fwgDefault,None,0000,0000,0000,,Okay, Shag and Exile\Nwill go with me.
 Dialogue: 0,0:14:48.47,0:14:49.95,fwgDefault,None,0000,0000,0000,,And I will go with Colleen.
 Dialogue: 0,0:14:50.36,0:14:51.13,fwgDefault,None,0000,0000,0000,,Have we met?
-Dialogue: 0,0:14:51.79,0:14:53.13,fwgDefault,None,0000,0000,0000,,I'm blitz. Remember?
+Dialogue: 0,0:14:51.79,0:14:53.13,fwgDefault,None,0000,0000,0000,,I'm Blitz. Remember?
 Dialogue: 0,0:14:53.63,0:14:54.29,fwgDefault,None,0000,0000,0000,,Sorry, governor.
 Dialogue: 0,0:14:54.61,0:14:55.97,fwgDefault,None,0000,0000,0000,,I need a name tag.
 Dialogue: 0,0:14:57.53,0:14:59.14,fwgDefault,None,0000,0000,0000,,Let's hit the road, Rovers!
-Dialogue: 0,0:14:59.36,0:15:01.19,fwgDefault,None,0000,0000,0000,,Next stop, the English moors.
+Dialogue: 0,0:14:59.29,0:15:01.38,fwgDefault,None,0000,0000,0000,,Next stop, the English moors.
 Dialogue: 0,0:15:02.92,0:15:05.01,fwgDefault,None,0000,0000,0000,,You should have left\Nme behind, Hunter.
 Dialogue: 0,0:15:05.05,0:15:06.69,fwgDefault,None,0000,0000,0000,,Any minute I could change.
-Dialogue: 0,0:15:07.37,0:15:10.27,fwgDefault,None,0000,0000,0000,,Nah. Honestly, Exile, we had\Nthe situation all wrapped up.
+Dialogue: 0,0:15:07.32,0:15:10.30,fwgDefault,None,0000,0000,0000,,Nah. Honestly, Exile, we had\Nthe situation all wrapped up.
 Dialogue: 0,0:15:10.68,0:15:12.29,fwgDefault,None,0000,0000,0000,,And not a moment too soon.
 Dialogue: 0,0:15:12.43,0:15:13.84,fwgDefault,None,0000,0000,0000,,Full moon off the right wing.
 Dialogue: 0,0:15:18.48,0:15:19.48,fwgDefault,None,0000,0000,0000,,How do you feel, buddy?
@@ -280,8 +278,8 @@ Dialogue: 0,0:16:50.63,0:16:52.23,fwgDefault,None,0000,0000,0000,,I got plenty o
 Dialogue: 0,0:17:02.14,0:17:03.82,fwgDefault,None,0000,0000,0000,,Where are you going now, Blitz?
 Dialogue: 0,0:17:04.73,0:17:05.97,fwgDefault,None,0000,0000,0000,,It's not up to me!
 Dialogue: 0,0:17:06.26,0:17:07.64,fwgDefault,None,0000,0000,0000,,Colleen's in charge!
-Dialogue: 0,0:17:17.42,0:17:18.58,fwgDefault,None,0000,0000,0000,,What are they all doing here?
-Dialogue: 0,0:17:19.58,0:17:21.97,fwgDefault,None,0000,0000,0000,,According to the legend\Nof my homeland
+Dialogue: 0,0:17:17.42,0:17:18.66,fwgDefault,None,0000,0000,0000,,What are they all doing here?
+Dialogue: 0,0:17:19.49,0:17:21.97,fwgDefault,None,0000,0000,0000,,According to the legend\Nof my homeland
 Dialogue: 0,0:17:22.23,0:17:25.28,fwgDefault,None,0000,0000,0000,,It is time for werewolves to\Npick their king and queen.
 Dialogue: 0,0:17:25.77,0:17:28.58,fwgDefault,None,0000,0000,0000,,Once sun comes up and night turns to day.
 Dialogue: 0,0:17:29.04,0:17:31.41,fwgDefault,None,0000,0000,0000,,They will all be\Nwerewolves forever.
@@ -293,10 +291,10 @@ Dialogue: 0,0:17:49.66,0:17:51.65,fwgDefault,None,0000,0000,0000,,I barely got a
 Dialogue: 0,0:17:51.90,0:17:52.99,fwgDefault,None,0000,0000,0000,,Play dead, Blitz.
 Dialogue: 0,0:17:53.23,0:17:54.82,fwgDefault,None,0000,0000,0000,,We're not going\Nanywhere without Colleen.
 Dialogue: 0,0:18:23.70,0:18:25.52,fwgDefault,None,0000,0000,0000,,Okay, Rovers Let's roll!
-Dialogue: 0,0:18:27.43,0:18:30.96,fwgDefault,None,0000,0000,0000,,Finally, it is time for the\Nbiting of soft mushy parts.
+Dialogue: 0,0:18:27.39,0:18:30.99,fwgDefault,None,0000,0000,0000,,Finally, it is time for the\Nbiting of soft mushy parts.
 Dialogue: 0,0:18:31.81,0:18:32.99,fwgDefault,None,0000,0000,0000,,Don't be a weird boy.
 Dialogue: 0,0:18:49.12,0:18:51.30,fwgDefault,,0,0,0,,I love being Road Rover!
-Dialogue: 0,0:18:57.21,0:19:00.54,fwgDefault,None,0000,0000,0000,,Colleen, he's not really your type,\Nin fact, she's not even your species.
+Dialogue: 0,0:18:57.21,0:19:00.54,fwgDefault,None,0000,0000,0000,,Colleen, he's not really your type,\Nin fact, he's not even your species.
 Dialogue: 0,0:19:14.21,0:19:16.04,fwgDefault,None,0000,0000,0000,,Shag, you gotta turn it around!
 Dialogue: 0,0:19:35.95,0:19:38.05,fwgDefault,,0,0,0,,You did it, Shag! Good work!
 Dialogue: 0,0:19:39.85,0:19:42.16,fwgDefault,None,0000,0000,0000,,You know, I'm\Nusually super-patient
@@ -307,13 +305,13 @@ Dialogue: 0,0:19:56.14,0:19:57.99,fwgDefault,,0,0,0,,Ew! Gross!
 Dialogue: 0,0:20:29.77,0:20:31.85,fwgDefault,None,0000,0000,0000,,Gooey! But it did the job!
 Dialogue: 0,0:20:32.27,0:20:33.66,fwgDefault,None,0000,0000,0000,,Here, you want\None for a souvenir?
 Dialogue: 0,0:20:33.92,0:20:36.58,fwgDefault,None,0000,0000,0000,,Hunter, you're\Njust too good to me.
-Dialogue: 0,0:20:37.04,0:20:38.98,fwgDefault,None,0000,0000,0000,,Hey, I'm also super generous.
+Dialogue: 0,0:20:37.04,0:20:39.16,fwgDefault,None,0000,0000,0000,,Hey, I'm also super generous.
 Dialogue: 0,0:20:43.03,0:20:44.70,fwgDefault,None,0000,0000,0000,,You're good dogs, Rovers.
 Dialogue: 0,0:20:44.80,0:20:46.41,fwgDefault,None,0000,0000,0000,,Good, good dogs.
 Dialogue: 0,0:20:47.49,0:20:50.84,fwgDefault,None,0000,0000,0000,,I'm glad to see that Colleen is\Nback to her beautiful self, too.
 Dialogue: 0,0:20:51.44,0:20:53.01,fwgDefault,None,0000,0000,0000,,Ah, me too.
 Dialogue: 0,0:20:53.08,0:20:55.45,fwgDefault,None,0000,0000,0000,,She almost took my\Ntuchus off back there.
-Dialogue: 0,0:20:55.81,0:20:56.92,fwgDefault,None,0000,0000,0000,,And thanks, Professor.
+Dialogue: 0,0:20:55.81,0:20:56.92,fwgDefault,None,0000,0000,0000,,And thanks, professor.
 Dialogue: 0,0:20:57.18,0:20:58.75,fwgDefault,None,0000,0000,0000,,Your nose has done it again.
 Dialogue: 0,0:20:59.40,0:21:01.90,fwgDefault,None,0000,0000,0000,,You've had linguine and\Nclam sauce haven't you?
 Dialogue: 0,0:21:02.37,0:21:03.38,fwgDefault,None,0000,0000,0000,,Well, yes.
