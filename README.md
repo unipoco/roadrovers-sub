@@ -6,6 +6,8 @@ The community maintained subtitles for the 1996 animated TV series "Road Rovers"
 
 This repository contains Advanced SubStation Alpha (.ass) subtitle files for "Road Rovers", a Warner Bros. animated series that aired from 1996 to 1997. The primary goal is to create complete, accurate English subtitles for all episodes and facilitate translations into other languages.
 
+While I’ve done my best to provide accurate phrasing, English is not my first language, so there may be errors or misinterpretations. I welcome feedback and corrections from others to improve the quality of the subtitles. Thank you for your understanding and support!
+
 ## Structure
 
 - `subtitles/english/`: Contains English subtitle files
