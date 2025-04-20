@@ -1,0 +1,301 @@
+﻿[Script Info]
+Original Script: unipoco
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: fwgDefault, Microsoft YaHei, 16, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.18,0:00:10.37,fwgDefault,None,0000,0000,0000,,Barkin', scratchin',\Nfrisbee-catchin', presidential pets
+Dialogue: 0,0:00:10.47,0:00:11.13,fwgDefault,None,0000,0000,0000,,That's us!
+Dialogue: 0,0:00:11.24,0:00:14.41,fwgDefault,None,0000,0000,0000,,Change into the canines who\Ndrive souped-up cars and jets
+Dialogue: 0,0:00:14.44,0:00:15.28,fwgDefault,None,0000,0000,0000,,Comin' through!
+Dialogue: 0,0:00:15.34,0:00:18.57,fwgDefault,None,0000,0000,0000,,Tuchus-nippin', toilet-sippin',\NSoarin' through the sky
+Dialogue: 0,0:00:18.59,0:00:19.16,fwgDefault,None,0000,0000,0000,,I like it!
+Dialogue: 0,0:00:19.22,0:00:22.53,fwgDefault,None,0000,0000,0000,,Lickin', droolin', quick-refuelin'\Nwho said dogs can't fly
+Dialogue: 0,0:00:22.55,0:00:23.22,fwgDefault,None,0000,0000,0000,,Not me!
+Dialogue: 0,0:00:23.25,0:00:26.48,fwgDefault,None,0000,0000,0000,,Speedin', crashin',\Nvillain-smashin' vehicles explode
+Dialogue: 0,0:00:26.51,0:00:27.14,fwgDefault,None,0000,0000,0000,,Ooh!
+Dialogue: 0,0:00:27.16,0:00:28.95,fwgDefault,None,0000,0000,0000,,Chasing, racing down the road
+Dialogue: 0,0:00:29.28,0:00:31.07,fwgDefault,None,0000,0000,0000,,Road Rovers!
+Dialogue: 0,0:00:31.26,0:00:34.39,fwgDefault,None,0000,0000,0000,,Hunter is a hero\Nhound, leader of the pack
+Dialogue: 0,0:00:34.42,0:00:35.18,fwgDefault,None,0000,0000,0000,,Huh, cool!
+Dialogue: 0,0:00:35.20,0:00:38.41,fwgDefault,None,0000,0000,0000,,Colleen comes from London\Ntown, watch her feet attack
+Dialogue: 0,0:00:39.20,0:00:42.51,fwgDefault,None,0000,0000,0000,,Exile's from Siberia\Nwith super-frozen sight
+Dialogue: 0,0:00:42.53,0:00:43.25,fwgDefault,,0,0,0,,That's me
+Dialogue: 0,0:00:43.27,0:00:46.42,fwgDefault,None,0000,0000,0000,,Blitz to chews on posteriors,\Nhis bark's worse than his bite
+Dialogue: 0,0:00:46.46,0:00:47.18,fwgDefault,None,0000,0000,0000,,I'm perfect.
+Dialogue: 0,0:00:47.21,0:00:50.45,fwgDefault,None,0000,0000,0000,,Shag is strong from head to\Ntoe, a coward through and through
+Dialogue: 0,0:00:51.22,0:00:54.47,fwgDefault,None,0000,0000,0000,,Muzzle's stack is gonna\Nblow, he's short a screw or two
+Dialogue: 0,0:00:54.95,0:00:58.40,fwgDefault,None,0000,0000,0000,,They fight for right both day\Nand night in every episode
+Dialogue: 0,0:00:58.42,0:00:59.16,fwgDefault,None,0000,0000,0000,,Let's roll!
+Dialogue: 0,0:00:59.18,0:01:01.00,fwgDefault,None,0000,0000,0000,,Now it's time to hit the road
+Dialogue: 0,0:01:01.24,0:01:03.17,fwgDefault,None,0000,0000,0000,,Road Rovers!
+Dialogue: 0,0:01:11.43,0:01:14.36,fwgDefault,,0,0,0,,Captain Zachary Storm, please rise.
+Dialogue: 0,0:01:15.20,0:01:18.53,fwgDefault,,0,0,0,,You have been found guilty of\Ntreason against the United States.
+Dialogue: 0,0:01:18.71,0:01:20.55,fwgDefault,,0,0,0,,The justice system is a conspiracy.
+Dialogue: 0,0:01:20.57,0:01:22.24,fwgDefault,,0,0,0,,You have no authority over me.
+Dialogue: 0,0:01:22.52,0:01:27.13,fwgDefault,,0,0,0,,I hereby sentence you to federal prison\Nfor life with no possibility of parole.
+Dialogue: 0,0:01:28.61,0:01:30.52,fwgDefault,,0,0,0,,This is just a minor setback.
+Dialogue: 0,0:01:30.88,0:01:32.20,fwgDefault,,0,0,0,,Bailiff, take him away.
+Dialogue: 0,0:01:50.84,0:01:52.02,fwgDefault,,0,0,0,,No, not me.
+Dialogue: 0,0:01:52.50,0:01:55.26,fwgDefault,,0,0,0,,Nooooo!
+Dialogue: 0,0:02:01.90,0:02:05.60,fwgDefault,,0,0,0,,As UFO sightings continue,\Ntoday at Camp David, the President
+Dialogue: 0,0:02:05.61,0:02:08.62,fwgDefault,,0,0,0,,and other world leaders have\Ngathered to review the crisis.
+Dialogue: 0,0:02:09.57,0:02:13.32,fwgDefault,,0,0,0,,According to our data, there's\Nno clear pattern to these sightings.
+Dialogue: 0,0:02:13.56,0:02:16.46,fwgDefault,,0,0,0,,Reminds me a bit of those\Nmysterious crop suckers we have,
+Dialogue: 0,0:02:16.54,0:02:19.07,fwgDefault,,0,0,0,,except they don't go\Naround disintegrating people.
+Dialogue: 0,0:02:24.24,0:02:26.02,fwgDefault,,0,0,0,,It's okay, Hunter.\NIt's okay.
+Dialogue: 0,0:02:26.55,0:02:30.08,fwgDefault,,0,0,0,,Now as of this morning, NATO\Nforces have been put on full alert.
+Dialogue: 0,0:02:30.14,0:02:33.09,fwgDefault,,0,0,0,,Mr. President, Germany's\Nmilitary is standing by.
+Dialogue: 0,0:02:33.33,0:02:34.40,fwgDefault,,0,0,0,,You can count on us.
+Dialogue: 0,0:02:34.69,0:02:37.92,fwgDefault,,0,0,0,,Her Majesty's armed forces\Nare ready to assist in any way.
+Dialogue: 0,0:02:38.06,0:02:41.66,fwgDefault,,0,0,0,,Russia's Ministry of Defense\Nis prepared to crush any threat.
+Dialogue: 0,0:02:42.51,0:02:45.16,fwgDefault,,0,0,0,,Well, if we're unable to remain neutral,
+Dialogue: 0,0:02:45.58,0:02:47.03,fwgDefault,,0,0,0,,then the Swiss guards will be ready.
+Dialogue: 0,0:02:47.24,0:02:47.67,fwgDefault,,0,0,0,,Good.
+Dialogue: 0,0:02:48.30,0:02:50.41,fwgDefault,,0,0,0,,At tomorrow's press\Nconference, we'll announce
+Dialogue: 0,0:02:50.43,0:02:53.14,fwgDefault,,0,0,0,,the formation of a planetary\Npeacekeeping alliance.
+Dialogue: 0,0:02:53.42,0:02:56.16,fwgDefault,,0,0,0,,I suggest that we all\Nget a chunky, lunky burger,
+Dialogue: 0,0:02:56.32,0:02:57.90,fwgDefault,,0,0,0,,maybe a large fry and a malt,
+Dialogue: 0,0:02:58.32,0:02:59.66,fwgDefault,,0,0,0,,and then psych out.
+Dialogue: 0,0:02:59.68,0:03:00.36,fwgDefault,,0,0,0,,What do you say?
+Dialogue: 0,0:03:00.63,0:03:02.22,fwgDefault,,0,0,0,,Hey, even you boy.
+Dialogue: 0,0:03:14.96,0:03:16.53,fwgDefault,,0,0,0,,Keep rolling.\NKeep rolling.
+Dialogue: 0,0:03:22.75,0:03:23.71,fwgDefault,,0,0,0,,What is it?
+Dialogue: 0,0:03:24.15,0:03:25.72,fwgDefault,,0,0,0,,You'd better stay back, Mr. President.
+Dialogue: 0,0:03:25.85,0:03:26.87,fwgDefault,,0,0,0,,We'll take care of this.
+Dialogue: 0,0:03:36.38,0:03:38.78,fwgDefault,,0,0,0,,Sir, I suggest you\Nand the others evacuate.
+Dialogue: 0,0:03:39.17,0:03:42.36,fwgDefault,,0,0,0,,No. We need to put a\Nstop to this once and for all.
+Dialogue: 0,0:03:42.85,0:03:43.73,fwgDefault,,0,0,0,,Hillary?
+Dialogue: 0,0:03:44.55,0:03:45.87,fwgDefault,,0,0,0,,Oh, she's not here.
+Dialogue: 0,0:03:52.36,0:03:54.30,fwgDefault,,0,0,0,,No, stay, Hunter.\NI'll be fine.
+Dialogue: 0,0:04:12.57,0:04:15.06,fwgDefault,,0,0,0,,I do not have a good feeling about this.
+Dialogue: 0,0:04:45.50,0:04:46.84,fwgDefault,,0,0,0,,It's okay, Hunter.
+Dialogue: 0,0:04:47.57,0:04:48.83,fwgDefault,,0,0,0,,What do they want, sir?
+Dialogue: 0,0:04:49.13,0:04:51.34,fwgDefault,,0,0,0,,Unconditional surrender.
+Dialogue: 0,0:05:08.12,0:05:11.46,fwgDefault,,0,0,0,,We've been waiting over five\Nhours for the press conference to begin,
+Dialogue: 0,0:05:11.58,0:05:14.22,fwgDefault,,0,0,0,,and there is still no word\Nfrom the world leaders on how
+Dialogue: 0,0:05:14.24,0:05:16.97,fwgDefault,,0,0,0,,they plan to respond to\Nlast night's alien ultimatum.
+Dialogue: 0,0:05:17.48,0:05:19.27,fwgDefault,,0,0,0,,Ha!\NYou've gone mad!
+Dialogue: 0,0:05:19.52,0:05:22.05,fwgDefault,,0,0,0,,I have proof that\NEngland is covertly involved
+Dialogue: 0,0:05:22.08,0:05:24.37,fwgDefault,,0,0,0,,with these aliens and\Na grab for world power.
+Dialogue: 0,0:05:24.90,0:05:26.99,fwgDefault,,0,0,0,,You dare accuse my country?
+Dialogue: 0,0:05:27.20,0:05:28.92,fwgDefault,,0,0,0,,Your country's behind this.
+Dialogue: 0,0:05:29.06,0:05:31.97,fwgDefault,,0,0,0,,This is an insidious\NBritish-American co-venture.
+Dialogue: 0,0:05:34.32,0:05:37.08,fwgDefault,,0,0,0,,Nein, it is Swiss\Nspying for world domination.
+Dialogue: 0,0:05:39.96,0:05:40.73,fwgDefault,,0,0,0,,Боже мой! (My god!)
+Dialogue: 0,0:05:41.00,0:05:44.18,fwgDefault,,0,0,0,,All of you are conspiring to\Noverthrow my government.
+Dialogue: 0,0:05:48.54,0:05:50.35,fwgDefault,,0,0,0,,If you persist with these accusations,
+Dialogue: 0,0:05:50.37,0:05:53.01,fwgDefault,,0,0,0,,I will be forced to\Ndeclare war on all of you.
+Dialogue: 0,0:05:53.32,0:05:54.84,fwgDefault,,0,0,0,,Then war it is.
+Dialogue: 0,0:06:02.96,0:06:04.97,fwgDefault,,0,0,0,,Rovers, this is a red alert.
+Dialogue: 0,0:06:05.33,0:06:07.55,fwgDefault,,0,0,0,,It's time to save the world.
+Dialogue: 0,0:06:18.62,0:06:22.45,fwgDefault,,0,0,0,,Rovers, we're on the brink of a\Ndisaster that could destroy the planet.
+Dialogue: 0,0:06:22.84,0:06:24.77,fwgDefault,,0,0,0,,The leaders of the world are talking war.
+Dialogue: 0,0:06:25.29,0:06:27.35,fwgDefault,,0,0,0,,Everyone should listen to my owner.
+Dialogue: 0,0:06:27.43,0:06:29.21,fwgDefault,,0,0,0,,He's the only one making sense.
+Dialogue: 0,0:06:29.55,0:06:31.14,fwgDefault,,0,0,0,,Да (yeah), nonsense.
+Dialogue: 0,0:06:31.42,0:06:33.48,fwgDefault,,0,0,0,,Watch your tongue, snowball.
+Dialogue: 0,0:06:33.60,0:06:35.40,fwgDefault,,0,0,0,,You should talk, weird boy.
+Dialogue: 0,0:06:35.61,0:06:37.23,fwgDefault,,0,0,0,,I'm going to bite you so hard.
+Dialogue: 0,0:06:37.33,0:06:38.45,fwgDefault,,0,0,0,,Get off my tail.
+Dialogue: 0,0:06:38.61,0:06:39.90,fwgDefault,,0,0,0,,Quit hounding me.
+Dialogue: 0,0:06:40.05,0:06:41.03,fwgDefault,,0,0,0,,Stop bickering.
+Dialogue: 0,0:06:41.05,0:06:43.16,fwgDefault,,0,0,0,,We're trying to stop a\Nwar, not start another one.
+Dialogue: 0,0:06:43.37,0:06:46.47,fwgDefault,,0,0,0,,Rovers, this crisis\Nis related to that UFO.
+Dialogue: 0,0:06:46.71,0:06:48.04,fwgDefault,,0,0,0,,I want you to track it down.
+Dialogue: 0,0:06:48.53,0:06:49.97,fwgDefault,,0,0,0,,Let's hit the skies.
+Dialogue: 0,0:07:02.11,0:07:05.97,fwgDefault,,0,0,0,,Satellite indicates UFO\Nlast spotted near Great Lakes.
+Dialogue: 0,0:07:06.18,0:07:07.46,fwgDefault,,0,0,0,,What do these aliens want?
+Dialogue: 0,0:07:08.10,0:07:10.97,fwgDefault,,0,0,0,,They may be after our planet\Nor maybe they're after our brains.
+Dialogue: 0,0:07:11.29,0:07:12.90,fwgDefault,,0,0,0,,Oof, even mine?
+Dialogue: 0,0:07:13.00,0:07:15.20,fwgDefault,,0,0,0,,Sure, it's the little things that count.
+Dialogue: 0,0:07:15.50,0:07:16.97,fwgDefault,,0,0,0,,Or they might be after our food.
+Dialogue: 0,0:07:19.52,0:07:21.52,fwgDefault,,0,0,0,,Shag says now it's personal.
+Dialogue: 0,0:07:28.93,0:07:29.77,fwgDefault,,0,0,0,,Wow!
+Dialogue: 0,0:07:30.69,0:07:32.82,fwgDefault,,0,0,0,,Close encounter of the worst kind.
+Dialogue: 0,0:07:43.51,0:07:44.71,fwgDefault,,0,0,0,,Colleen, I need your help.
+Dialogue: 0,0:07:45.00,0:07:46.50,fwgDefault,,0,0,0,,Everyone else, abandon ship.
+Dialogue: 0,0:07:46.92,0:07:49.18,fwgDefault,,0,0,0,,Whatever happened to\Nwomen and children first?
+Dialogue: 0,0:07:49.31,0:07:50.97,fwgDefault,,0,0,0,,Another cliche bites the dust.
+Dialogue: 0,0:08:06.86,0:08:09.15,fwgDefault,,0,0,0,,Are you sure you know\Nhow that pump works, Hunter?
+Dialogue: 0,0:08:09.60,0:08:11.22,fwgDefault,,0,0,0,,Nope, but it's worth a try.
+Dialogue: 0,0:08:11.48,0:08:12.58,fwgDefault,,0,0,0,,And if it doesn't work?
+Dialogue: 0,0:08:12.91,0:08:14.27,fwgDefault,,0,0,0,,How long can you hold your breath?
+Dialogue: 0,0:08:14.50,0:08:15.74,fwgDefault,,0,0,0,,Not long enough.
+Dialogue: 0,0:08:19.02,0:08:21.12,fwgDefault,,0,0,0,,You never learned how to doggy paddle?
+Dialogue: 0,0:08:21.66,0:08:23.70,fwgDefault,,0,0,0,,What a shame for both of us.
+Dialogue: 0,0:08:35.41,0:08:37.64,fwgDefault,,0,0,0,,Lucky for us, comrade, we have chutes.
+Dialogue: 0,0:08:43.04,0:08:44.97,fwgDefault,,0,0,0,,I didn't say it was good lucky for us.
+Dialogue: 0,0:08:48.78,0:08:51.40,fwgDefault,,0,0,0,,Easy Muzzle, I give bad guys big chill.
+Dialogue: 0,0:08:53.99,0:08:55.10,fwgDefault,,0,0,0,,That will learn them.
+Dialogue: 0,0:08:55.52,0:08:55.93,fwgDefault,,0,0,0,,Oops.
+Dialogue: 0,0:08:57.07,0:08:58.39,fwgDefault,,0,0,0,,They are fast learners.
+Dialogue: 0,0:09:01.56,0:09:02.31,fwgDefault,,0,0,0,,Move along.
+Dialogue: 0,0:09:08.53,0:09:09.89,fwgDefault,,0,0,0,,Hey, stop shoving.
+Dialogue: 0,0:09:10.72,0:09:12.53,fwgDefault,,0,0,0,,Look what the cat dragged in.
+Dialogue: 0,0:09:12.89,0:09:16.37,fwgDefault,,0,0,0,,Don't start with me.\NI'm feeling a tad cranky.
+Dialogue: 0,0:09:16.82,0:09:18.32,fwgDefault,,0,0,0,,Well, well.
+Dialogue: 0,0:09:19.01,0:09:22.07,fwgDefault,,0,0,0,,It seems the planet Earth\Nhas truly gone to the dogs.
+Dialogue: 0,0:09:23.35,0:09:26.92,fwgDefault,,0,0,0,,Put the prisoners through a neural brain\Nscrambler to ensure their loyalty to me.
+Dialogue: 0,0:09:27.12,0:09:29.48,fwgDefault,,0,0,0,,Just like the leaders\Nof their little world.
+Dialogue: 0,0:09:30.20,0:09:33.73,fwgDefault,,0,0,0,,Please, Mr. Alien, sir, I beg\Nof you, don't scramble my brain.
+Dialogue: 0,0:09:33.76,0:09:37.15,fwgDefault,,0,0,0,,It's so teeny tiny, it wouldn't\Neven make a decent omelet.
+Dialogue: 0,0:09:37.23,0:09:38.15,fwgDefault,,0,0,0,,Please.
+Dialogue: 0,0:09:45.15,0:09:47.48,fwgDefault,,0,0,0,,Engage that ship\Nand this time I'll obliterate it.
+Dialogue: 0,0:09:48.09,0:09:49.75,fwgDefault,,0,0,0,,Boy, I'm glad that pump worked.
+Dialogue: 0,0:09:50.06,0:09:50.85,fwgDefault,,0,0,0,,I'll say.
+Dialogue: 0,0:09:53.87,0:09:55.12,fwgDefault,,0,0,0,,Faster, Huntie Wuntie.
+Dialogue: 0,0:09:57.56,0:09:58.99,fwgDefault,,0,0,0,,They are mine.
+Dialogue: 0,0:09:59.34,0:10:01.79,fwgDefault,,0,0,0,,Commander, sensors\Nare picking up something new.
+Dialogue: 0,0:10:07.19,0:10:09.15,fwgDefault,,0,0,0,,I would not have predicted this.
+Dialogue: 0,0:10:13.15,0:10:14.63,fwgDefault,,0,0,0,,How's it wagging, Space Rovers?
+Dialogue: 0,0:10:14.89,0:10:18.33,fwgDefault,,0,0,0,,All systems go, Hunter.\NEngaging laser launchers.
+Dialogue: 0,0:10:18.62,0:10:19.39,fwgDefault,,0,0,0,,Come again?
+Dialogue: 0,0:10:25.74,0:10:28.13,fwgDefault,,0,0,0,,Initiating retrieval maneuvers.
+Dialogue: 0,0:10:28.39,0:10:30.45,fwgDefault,,0,0,0,,Hey, you're from\Nanother country, aren't you?
+Dialogue: 0,0:10:41.63,0:10:42.35,fwgDefault,,0,0,0,,Ready, Huntie?
+Dialogue: 0,0:10:42.54,0:10:44.06,fwgDefault,,0,0,0,,You bet. Catch!
+Dialogue: 0,0:10:54.35,0:10:55.72,fwgDefault,,0,0,0,,We need reinforcements.
+Dialogue: 0,0:10:57.97,0:11:01.33,fwgDefault,,0,0,0,,What we are about to do\Nshould not happen to a dog.
+Dialogue: 0,0:11:01.72,0:11:04.30,fwgDefault,,0,0,0,,It won't. It'll happen to them.
+Dialogue: 0,0:11:04.32,0:11:05.19,fwgDefault,,0,0,0,,Muzzle 'em!
+Dialogue: 0,0:11:09.88,0:11:12.07,fwgDefault,,0,0,0,,Cold War was never like this.
+Dialogue: 0,0:11:13.49,0:11:15.88,fwgDefault,,0,0,0,,I'm feeling a little dyspepsia.
+Dialogue: 0,0:11:21.39,0:11:23.83,fwgDefault,,0,0,0,,Yo, monkey boy.\NLeaving the party already?
+Dialogue: 0,0:11:25.93,0:11:29.62,fwgDefault,,0,0,0,,Who do they send to stop me?\NNot the FBI. Not the CIA.
+Dialogue: 0,0:11:29.79,0:11:33.62,fwgDefault,,0,0,0,,They send mutts! A grave tactical error.
+Dialogue: 0,0:11:33.82,0:11:34.90,fwgDefault,,0,0,0,,Storm!
+Dialogue: 0,0:11:36.05,0:11:36.91,fwgDefault,,0,0,0,,But you're dead.
+Dialogue: 0,0:11:37.27,0:11:40.22,fwgDefault,,0,0,0,,You're a dead alien, ghost, zombie thingy.
+Dialogue: 0,0:11:40.42,0:11:42.70,fwgDefault,,0,0,0,,That's what I wanted everyone to think.
+Dialogue: 0,0:11:42.97,0:11:46.10,fwgDefault,,0,0,0,,He wasn't vaporized after all.\NIt was special effects.
+Dialogue: 0,0:11:46.27,0:11:49.91,fwgDefault,,0,0,0,,Oh, cool! Did ILM to him?\NThat must have cost him.
+Dialogue: 0,0:11:49.94,0:11:50.94,fwgDefault,,0,0,0,,A fortune
+Dialogue: 0,0:11:51.87,0:11:54.83,fwgDefault,,0,0,0,,I'm glad you liked the\Nillusion, but the show's over.
+Dialogue: 0,0:11:55.27,0:11:59.70,fwgDefault,,0,0,0,,You see, the captain is going\Ndown with the ship, and so are you.
+Dialogue: 0,0:12:00.48,0:12:03.22,fwgDefault,,0,0,0,,The ship will\Nself-destruct in 30 seconds.
+Dialogue: 0,0:12:03.72,0:12:06.82,fwgDefault,,0,0,0,,Yet another unexpected twist. Bummer.
+Dialogue: 0,0:12:15.69,0:12:18.19,fwgDefault,,0,0,0,,All tushies bitten and accounted for.
+Dialogue: 0,0:12:18.62,0:12:20.83,fwgDefault,,0,0,0,,20 seconds to blast off.
+Dialogue: 0,0:12:20.92,0:12:27.64,fwgDefault,,0,0,0,,20, 19, 18, 17, 16...
+Dialogue: 0,0:12:27.66,0:12:34.95,fwgDefault,,0,0,0,,15, 14, 13, 12, 11, 10...
+Dialogue: 0,0:12:34.97,0:12:37.81,fwgDefault,,0,0,0,,Hurry, Exile. If we don't\Nwarp out of here now, we're toast.
+Dialogue: 0,0:12:38.14,0:12:40.23,fwgDefault,,0,0,0,,Do you like your\Ntoast with jam or honey?
+Dialogue: 0,0:12:40.39,0:12:42.02,fwgDefault,,0,0,0,,Eh... jam. And don't call me honey.\N5...
+Dialogue: 0,0:12:42.32,0:12:46.97,fwgDefault,,0,0,0,,4, 3, 2, 1...
+Dialogue: 0,0:12:57.76,0:12:59.66,fwgDefault,,0,0,0,,What about all of Storm's mercenaries?
+Dialogue: 0,0:13:00.12,0:13:01.66,fwgDefault,,0,0,0,,They'll be picked up by the Navy.
+Dialogue: 0,0:13:02.73,0:13:04.24,fwgDefault,,0,0,0,,To the power of the pack!
+Dialogue: 0,0:13:08.32,0:13:09.45,fwgDefault,,0,0,0,,Now, where were we?
+Dialogue: 0,0:13:10.32,0:13:12.19,fwgDefault,,0,0,0,,Captain Zachary Storm,
+Dialogue: 0,0:13:12.39,0:13:15.90,fwgDefault,,0,0,0,,once again you've been found guilty\Nof treason against the United States.
+Dialogue: 0,0:13:16.36,0:13:18.67,fwgDefault,,0,0,0,,I sentence you to\Nfederal prison for a double
+Dialogue: 0,0:13:18.69,0:13:21.20,fwgDefault,,0,0,0,,life sentence with no\Npossibility of parole.
+Dialogue: 0,0:13:21.96,0:13:23.40,fwgDefault,,0,0,0,,Dream on, judge.
+Dialogue: 0,0:13:23.54,0:13:27.79,fwgDefault,,0,0,0,,I guarantee you I'll eclipse\Neverything I've ever done before.
+Dialogue: 0,0:13:28.32,0:13:32.93,fwgDefault,,0,0,0,,And the whole world will know\Nthe Storm can never be stopped.
+Dialogue: 0,0:13:33.55,0:13:34.28,fwgDefault,,0,0,0,,Never!
+Dialogue: 0,0:13:38.25,0:13:40.69,fwgDefault,,0,0,0,,Couldn't happen to a nicer maniac.
+Dialogue: 0,0:13:40.85,0:13:44.03,fwgDefault,,0,0,0,,And again, he might\Nnot be at the top of the list.
+Dialogue: 0,0:13:45.34,0:13:46.61,fwgDefault,,0,0,0,,I love you most.
+Dialogue: 0,0:13:48.55,0:13:52.31,fwgDefault,,0,0,0,,We have peace on Earth, for a\Nwhile at least, thanks to you rovers.
+Dialogue: 0,0:13:52.59,0:13:55.94,fwgDefault,,0,0,0,,Cool! This calls for a group hug!
+Dialogue: 0,0:13:57.66,0:14:01.45,fwgDefault,,0,0,0,,Where in the Road Rover\Nmanual does it say we have to do this?
+Dialogue: 0,0:14:01.67,0:14:03.36,fwgDefault,,0,0,0,,The footnote on page 227.
+Dialogue: 0,0:14:03.84,0:14:07.17,fwgDefault,,0,0,0,,Oh, fine print gets me every time.
+Dialogue: 0,0:14:08.69,0:14:10.93,fwgDefault,,0,0,0,,Finally, the nightmare is over.
+Dialogue: 0,0:14:11.36,0:14:14.08,fwgDefault,,0,0,0,,Now if we could just calm\Nthings down in Bosnia.
+Dialogue: 0,0:14:17.07,0:14:18.58,fwgDefault,,0,0,0,,Sweet dreams, Shag.
+Dialogue: 0,0:14:20.96,0:14:23.35,fwgDefault,,0,0,0,,Enough biting, Blitz. It's time for bed.
+Dialogue: 0,0:14:23.62,0:14:28.32,fwgDefault,,0,0,0,,999, 1000. There, all done.
+Dialogue: 0,0:14:28.50,0:14:29.78,fwgDefault,,0,0,0,,Now it's off to bed, dear.
+Dialogue: 0,0:14:33.89,0:14:35.66,fwgDefault,,0,0,0,,We'll play some more tomorrow, Hunter.
+Dialogue: 0,0:14:36.32,0:14:39.61,fwgDefault,,0,0,0,,Right now, all I wanna do is\Nget over that whitewater thingy.
+Dialogue: 0,0:14:39.98,0:14:40.97,fwgDefault,,0,0,0,,Get some sleep.
+Dialogue: 0,0:14:49.89,0:14:52.73,fwgDefault,,0,0,0,,They'll learn. The hard way.
+Dialogue: 0,0:14:53.92,0:14:57.32,fwgDefault,,0,0,0,,Not even prison bars can stop\Nme from controlling the world.
+Dialogue: 0,0:14:57.44,0:14:59.64,fwgDefault,,0,0,0,,Excuse me? What do you mean?
+Dialogue: 0,0:15:00.11,0:15:02.10,fwgDefault,,0,0,0,,Just watch the moon, buddy boy.
+Dialogue: 0,0:15:22.13,0:15:25.21,fwgDefault,,0,0,0,,Yeah, it's all happening now.
+Dialogue: 0,0:15:25.62,0:15:26.97,fwgDefault,,0,0,0,,I don't understand.
+Dialogue: 0,0:15:27.59,0:15:31.66,fwgDefault,,0,0,0,,When the lunar eclipse is\Nat its apex, the war will begin.
+Dialogue: 0,0:15:32.00,0:15:32.77,fwgDefault,,0,0,0,,But how?
+Dialogue: 0,0:15:33.27,0:15:37.54,fwgDefault,,0,0,0,,I planted a post-hypnotic suggestion\Nin the minds of the world's leaders.
+Dialogue: 0,0:15:37.80,0:15:38.69,fwgDefault,,0,0,0,,Oh, no.
+Dialogue: 0,0:15:39.65,0:15:43.05,fwgDefault,,0,0,0,,And they thought they\Ncould stop me. Hehe...
+Dialogue: 0,0:16:09.21,0:16:11.70,fwgDefault,,0,0,0,,Stand by for verification codes.
+Dialogue: 0,0:16:11.93,0:16:16.20,fwgDefault,,0,0,0,,But Mr. President, these codes authorize\Nthe immediate activation of our missiles.
+Dialogue: 0,0:16:16.34,0:16:18.56,fwgDefault,,0,0,0,,Correct, General. Now do it.
+Dialogue: 0,0:16:22.51,0:16:24.34,fwgDefault,,0,0,0,,Prepare for launching.
+Dialogue: 0,0:16:25.00,0:16:28.53,fwgDefault,,0,0,0,,You heard me correctly.\NWe're not neutral anymore.
+Dialogue: 0,0:16:28.84,0:16:30.81,fwgDefault,,0,0,0,,Complete obliteration.
+Dialogue: 0,0:16:30.99,0:16:33.00,fwgDefault,,0,0,0,,The time is at hand.
+Dialogue: 0,0:16:44.58,0:16:45.40,fwgDefault,,0,0,0,,Hunter, wake up.
+Dialogue: 0,0:16:46.81,0:16:47.83,fwgDefault,,0,0,0,,Colleen, you too.
+Dialogue: 0,0:16:48.97,0:16:49.57,fwgDefault,,0,0,0,,Blitz.
+Dialogue: 0,0:16:50.68,0:16:51.47,fwgDefault,,0,0,0,,Shag.
+Dialogue: 0,0:16:54.67,0:16:56.86,fwgDefault,,0,0,0,,Dream about hydrants\Nsome other night, Shag.
+Dialogue: 0,0:16:57.20,0:16:59.35,fwgDefault,,0,0,0,,Exile, this is a full Road Rover alert.
+Dialogue: 0,0:16:59.75,0:17:02.82,fwgDefault,,0,0,0,,The world leaders are\Nabout to set off a full-scale war.
+Dialogue: 0,0:17:03.02,0:17:05.70,fwgDefault,,0,0,0,,You need to stop them\Nbefore the eclipse is complete.
+Dialogue: 0,0:17:09.05,0:17:09.83,fwgDefault,,0,0,0,,No, Hunter!
+Dialogue: 0,0:17:10.06,0:17:12.79,fwgDefault,,0,0,0,,There's no time to\Ntransdogmafy into Road Rovers.
+Dialogue: 0,0:17:12.95,0:17:15.73,fwgDefault,,0,0,0,,You've got to do it on your own.\NThere's no other way.
+Dialogue: 0,0:17:19.66,0:17:22.21,fwgDefault,,0,0,0,,Receiving emergency\Nmessage for strategic missile launch.
+Dialogue: 0,0:17:22.69,0:17:24.19,fwgDefault,,0,0,0,,Begin verification codes.
+Dialogue: 0,0:17:25.18,0:17:28.43,fwgDefault,,0,0,0,,Bravo, Echo, Tango.
+Dialogue: 0,0:17:32.37,0:17:33.97,fwgDefault,,0,0,0,,Hey, cut it out, Hunter.
+Dialogue: 0,0:17:34.17,0:17:34.89,fwgDefault,,0,0,0,,What was that, sir?
+Dialogue: 0,0:17:35.55,0:17:36.22,fwgDefault,,0,0,0,,Hey!
+Dialogue: 0,0:17:39.72,0:17:42.24,fwgDefault,,0,0,0,,Avon, Piccadilly, Abbey.
+Dialogue: 0,0:17:44.19,0:17:46.13,fwgDefault,,0,0,0,,Colleen, what's wrong with you?
+Dialogue: 0,0:17:46.27,0:17:47.41,fwgDefault,,0,0,0,,This won't do at all.
+Dialogue: 0,0:17:48.00,0:17:50.26,fwgDefault,,0,0,0,,Разный, звенья, собака.
+Dialogue: 0,0:17:53.97,0:17:57.15,fwgDefault,,0,0,0,,Exile, you will be sent\Nback to Siberia for this.
+Dialogue: 0,0:17:59.40,0:18:02.07,fwgDefault,,0,0,0,,Zurich, Geneva, Lucerne.
+Dialogue: 0,0:18:02.12,0:18:04.07,fwgDefault,,0,0,0,,Yep, doggy breath.
+Dialogue: 0,0:18:05.18,0:18:07.80,fwgDefault,,0,0,0,,Doggy breath? I'm afraid\Nthat's not part of the code, sir.
+Dialogue: 0,0:18:08.73,0:18:11.52,fwgDefault,,0,0,0,,Sieben, Reich, Eis, Tindern.
+Dialogue: 0,0:18:12.85,0:18:15.59,fwgDefault,,0,0,0,,Ah, Blitz! Mein heilig! (My god!)
+Dialogue: 0,0:18:31.45,0:18:33.39,fwgDefault,,0,0,0,,Hunter, knock it off.
+Dialogue: 0,0:18:38.97,0:18:40.49,fwgDefault,,0,0,0,,Whoa!
+Dialogue: 0,0:18:43.85,0:18:46.19,fwgDefault,,0,0,0,,We need the final code for\Nthe launch if we're to proceed, sir.
+Dialogue: 0,0:18:46.87,0:18:49.50,fwgDefault,,0,0,0,,Launch? What am I doing?
+Dialogue: 0,0:18:49.81,0:18:51.98,fwgDefault,,0,0,0,,Abort! Cancel launch immediately!
+Dialogue: 0,0:18:52.50,0:18:54.98,fwgDefault,,0,0,0,,Heavens, abort the launch.
+Dialogue: 0,0:18:55.84,0:18:58.04,fwgDefault,,0,0,0,,Боже мой! (My god!) stop missiles now!
+Dialogue: 0,0:18:58.35,0:18:59.57,fwgDefault,,0,0,0,,We're neutral again.
+Dialogue: 0,0:19:00.23,0:19:01.61,fwgDefault,,0,0,0,,Halt den Blitzkrieg! (Stop the strike!)
+Dialogue: 0,0:19:18.47,0:19:21.17,fwgDefault,,0,0,0,,I don't fully understand\Nwhat happened last night, Hunter,
+Dialogue: 0,0:19:21.48,0:19:25.34,fwgDefault,,0,0,0,,but hoo-wee, I think you saved\Nthe world from total destruction.
+Dialogue: 0,0:19:25.62,0:19:27.75,fwgDefault,,0,0,0,,You're a genuine hero.
+Dialogue: 0,0:19:29.77,0:19:33.67,fwgDefault,,0,0,0,,If it wasn't for you, Colleen, I shudder\Nto think what might have happened.
+Dialogue: 0,0:19:34.15,0:19:36.18,fwgDefault,,0,0,0,,You are true comrade, Exile.
+Dialogue: 0,0:19:36.93,0:19:39.44,fwgDefault,,0,0,0,,Dankeschön (thanks), Blitz. I think.
+Dialogue: 0,0:19:41.15,0:19:43.72,fwgDefault,,0,0,0,,Eat up, Shag. You deserve it.
+Dialogue: 0,0:19:44.48,0:19:47.18,fwgDefault,,0,0,0,,Deep inside every dog is a road rover.
+Dialogue: 0,0:19:47.43,0:19:49.47,fwgDefault,,0,0,0,,You're good, good dogs.
+Dialogue: 0,0:19:53.46,0:19:58.73,fwgDefault,,0,0,0,,I'll be back! You'll see!\NWhat doesn't kill me makes me stronger!
+Dialogue: 0,0:19:58.97,0:20:01.16,fwgDefault,,0,0,0,,Besides, old soldiers never die.
+Dialogue: 0,0:20:01.29,0:20:03.45,fwgDefault,,0,0,0,,They keep coming back for more.
+Dialogue: 0,0:20:03.69,0:20:04.86,fwgDefault,,0,0,0,,Excuse me.
+Dialogue: 0,0:20:05.59,0:20:07.25,fwgDefault,,0,0,0,,Could you please keep it down?
+Dialogue: 0,0:20:07.44,0:20:08.87,fwgDefault,,0,0,0,,We're in the middle of a meeting.
+Dialogue: 0,0:20:08.99,0:20:12.00,fwgDefault,,0,0,0,,Now, Spider, you'll control Russia.
+Dialogue: 0,0:20:12.37,0:20:14.59,fwgDefault,,0,0,0,,Flee, China is yours.
+Dialogue: 0,0:20:14.69,0:20:17.62,fwgDefault,,0,0,0,,And Cockroach, you can have Iran.
+Dialogue: 0,0:20:17.77,0:20:19.32,fwgDefault,,0,0,0,,You can't split up the world.
+Dialogue: 0,0:20:19.78,0:20:22.48,fwgDefault,,0,0,0,,It's mine to rule! Mine!
+Dialogue: 0,0:20:22.50,0:20:25.69,fwgDefault,,0,0,0,,You can't rule the world.\NYou're not a bug.
+Dialogue: 0,0:20:25.91,0:20:28.42,fwgDefault,,0,0,0,,You're not going to rule, are you?
+Dialogue: 0,0:20:28.84,0:20:31.70,fwgDefault,,0,0,0,,No, it is I who shall\Nrule the world, yes.
+Dialogue: 0,0:20:31.81,0:20:35.12,fwgDefault,,0,0,0,,You can't! You can't! It's mine!
+Dialogue: 0,0:20:35.15,0:20:38.07,fwgDefault,,0,0,0,,No! No, no, no, no!

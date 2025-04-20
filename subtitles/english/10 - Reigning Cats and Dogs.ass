@@ -1,0 +1,304 @@
+﻿[Script Info]
+Original Script: unipoco
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: fwgDefault, Microsoft YaHei, 16, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.94,0:00:10.13,fwgDefault,None,0000,0000,0000,,Barkin', scratchin',\Nfrisbee-catchin', presidential pets
+Dialogue: 0,0:00:10.23,0:00:10.89,fwgDefault,None,0000,0000,0000,,That's us!
+Dialogue: 0,0:00:11.00,0:00:14.17,fwgDefault,None,0000,0000,0000,,Change into the canines who\Ndrive souped-up cars and jets
+Dialogue: 0,0:00:14.20,0:00:15.04,fwgDefault,None,0000,0000,0000,,Comin' through!
+Dialogue: 0,0:00:15.06,0:00:18.29,fwgDefault,None,0000,0000,0000,,Tuchus-nippin', toilet-sippin',\NSoarin' through the sky
+Dialogue: 0,0:00:18.36,0:00:18.92,fwgDefault,None,0000,0000,0000,,I like it!
+Dialogue: 0,0:00:18.98,0:00:22.29,fwgDefault,None,0000,0000,0000,,Lickin', droolin', quick-refuelin'\Nwho said dogs can't fly
+Dialogue: 0,0:00:22.31,0:00:22.98,fwgDefault,None,0000,0000,0000,,Not me!
+Dialogue: 0,0:00:23.01,0:00:26.24,fwgDefault,None,0000,0000,0000,,Speedin', crashin',\Nvillain-smashin' vehicles explode
+Dialogue: 0,0:00:26.27,0:00:26.90,fwgDefault,None,0000,0000,0000,,Ooh!
+Dialogue: 0,0:00:26.92,0:00:28.71,fwgDefault,None,0000,0000,0000,,Chasing, racing down the road
+Dialogue: 0,0:00:29.04,0:00:30.83,fwgDefault,None,0000,0000,0000,,Road Rovers!
+Dialogue: 0,0:00:31.02,0:00:34.15,fwgDefault,None,0000,0000,0000,,Hunter is a hero\Nhound, leader of the pack
+Dialogue: 0,0:00:34.18,0:00:34.94,fwgDefault,None,0000,0000,0000,,Huh, cool!
+Dialogue: 0,0:00:34.96,0:00:38.17,fwgDefault,None,0000,0000,0000,,Colleen comes from London\Ntown, watch her feet attack
+Dialogue: 0,0:00:38.96,0:00:42.27,fwgDefault,None,0000,0000,0000,,Exile's from Siberia\Nwith super-frozen sight
+Dialogue: 0,0:00:42.29,0:00:43.01,fwgDefault,,0,0,0,,That's me
+Dialogue: 0,0:00:43.03,0:00:46.18,fwgDefault,None,0000,0000,0000,,Blitz to chews on posteriors,\Nhis bark's worse than his bite
+Dialogue: 0,0:00:46.22,0:00:46.94,fwgDefault,None,0000,0000,0000,,I'm perfect.
+Dialogue: 0,0:00:46.97,0:00:50.21,fwgDefault,None,0000,0000,0000,,Shag is strong from head to\Ntoe, a coward through and through
+Dialogue: 0,0:00:50.98,0:00:54.23,fwgDefault,None,0000,0000,0000,,Muzzle's stack is gonna\Nblow, he's short a screw or two
+Dialogue: 0,0:00:54.71,0:00:58.16,fwgDefault,None,0000,0000,0000,,They fight for right both day\Nand night in every episode
+Dialogue: 0,0:00:58.18,0:00:58.92,fwgDefault,None,0000,0000,0000,,Let's roll!
+Dialogue: 0,0:00:58.94,0:01:00.76,fwgDefault,None,0000,0000,0000,,Now it's time to hit the road
+Dialogue: 0,0:01:01.00,0:01:02.93,fwgDefault,None,0000,0000,0000,,Road Rovers!
+Dialogue: 0,0:01:07.39,0:01:09.87,fwgDefault,None,0000,0000,0000,,Hunter's Log, stardate\Nthe day after yesterday.
+Dialogue: 0,0:01:10.09,0:01:12.52,fwgDefault,None,0000,0000,0000,,We've been searching\Ndoggedly for General Parvo.
+Dialogue: 0,0:01:13.12,0:01:13.73,fwgDefault,None,0000,0000,0000,,Bummer.
+Dialogue: 0,0:01:13.94,0:01:15.55,fwgDefault,None,0000,0000,0000,,There's nothing here but empty space.
+Dialogue: 0,0:01:15.69,0:01:17.64,fwgDefault,None,0000,0000,0000,,Looking at X-Ray of Blitz's brain?
+Dialogue: 0,0:01:18.26,0:01:18.75,fwgDefault,None,0000,0000,0000,,Who?
+Dialogue: 0,0:01:19.11,0:01:20.33,fwgDefault,None,0000,0000,0000,,You know. Weird boy.
+Dialogue: 0,0:01:20.71,0:01:22.31,fwgDefault,None,0000,0000,0000,,Okay. Keep it up, Exile.
+Dialogue: 0,0:01:22.33,0:01:24.53,fwgDefault,None,0000,0000,0000,,And the biting of the\Nmushy parts will begin.
+Dialogue: 0,0:01:25.05,0:01:25.49,fwgDefault,None,0000,0000,0000,,Ew.
+Dialogue: 0,0:01:26.00,0:01:27.61,fwgDefault,None,0000,0000,0000,,Blimey, this is odd.
+Dialogue: 0,0:01:28.05,0:01:30.28,fwgDefault,None,0000,0000,0000,,The sensors indicate that Parvo is close,
+Dialogue: 0,0:01:30.63,0:01:32.99,fwgDefault,None,0000,0000,0000,,but the scanner shows\Nthe field totally clear.
+Dialogue: 0,0:01:37.02,0:01:37.83,fwgDefault,,0,0,0,,Oh, boy.
+Dialogue: 0,0:01:38.27,0:01:39.00,fwgDefault,None,0000,0000,0000,,It's Parvo.
+Dialogue: 0,0:01:47.88,0:01:49.97,fwgDefault,None,0000,0000,0000,,They never saw us coming, Groomer.
+Dialogue: 0,0:01:50.19,0:01:51.33,fwgDefault,None,0000,0000,0000,,Yes, General.
+Dialogue: 0,0:01:51.46,0:01:54.04,fwgDefault,None,0000,0000,0000,,Those dogs are no\Nmatch for your brilliance.
+Dialogue: 0,0:01:54.20,0:01:55.10,fwgDefault,None,0000,0000,0000,,And?
+Dialogue: 0,0:01:55.45,0:01:58.96,fwgDefault,None,0000,0000,0000,,And your strength is\Nmore than theirs combined.
+Dialogue: 0,0:01:59.47,0:02:00.87,fwgDefault,None,0000,0000,0000,,Go on.
+Dialogue: 0,0:02:01.07,0:02:04.37,fwgDefault,None,0000,0000,0000,,And you are more of a\Nman than they will ever be.
+Dialogue: 0,0:02:04.60,0:02:06.41,fwgDefault,None,0000,0000,0000,,Yes, I am.
+Dialogue: 0,0:02:09.65,0:02:10.89,fwgDefault,None,0000,0000,0000,,Battle stations, Rovers.
+Dialogue: 0,0:02:10.99,0:02:12.75,fwgDefault,None,0000,0000,0000,,Disengaging Rover's saucer.
+Dialogue: 0,0:02:13.00,0:02:14.39,fwgDefault,None,0000,0000,0000,,Begin defensive maneuvers.
+Dialogue: 0,0:02:16.48,0:02:17.67,fwgDefault,None,0000,0000,0000,,Let's lead him astray.
+Dialogue: 0,0:02:25.32,0:02:27.51,fwgDefault,None,0000,0000,0000,,We might have to cancel\Nour weekend plans, Huntie.
+Dialogue: 0,0:02:27.81,0:02:29.24,fwgDefault,None,0000,0000,0000,,But what about our golf game?
+Dialogue: 0,0:02:32.51,0:02:35.11,fwgDefault,None,0000,0000,0000,,Well, I guess you'll have to\Npractice your 9 iron on Parvo.
+Dialogue: 0,0:02:35.16,0:02:36.46,fwgDefault,None,0000,0000,0000,,That should tee him off.
+Dialogue: 0,0:02:38.08,0:02:39.32,fwgDefault,None,0000,0000,0000,,We have turbulence.
+Dialogue: 0,0:02:39.73,0:02:40.90,fwgDefault,None,0000,0000,0000,,It's a black hole.
+Dialogue: 0,0:02:41.36,0:02:42.21,fwgDefault,None,0000,0000,0000,,Is that a good thing?
+Dialogue: 0,0:02:42.43,0:02:45.09,fwgDefault,None,0000,0000,0000,,It is if you want to be\Ncompressed into oblivion.
+Dialogue: 0,0:02:45.29,0:02:45.95,fwgDefault,None,0000,0000,0000,,Cool.
+Dialogue: 0,0:02:46.41,0:02:47.93,fwgDefault,None,0000,0000,0000,,Everything's under control, General.
+Dialogue: 0,0:02:48.21,0:02:50.67,fwgDefault,None,0000,0000,0000,,I'll have us out of here as\Nsoon as I set new coordinates.
+Dialogue: 0,0:02:50.97,0:02:51.54,fwgDefault,None,0000,0000,0000,,Right.
+Dialogue: 0,0:02:53.07,0:02:55.74,fwgDefault,None,0000,0000,0000,,First, obliterate those dogs!
+Dialogue: 0,0:02:56.39,0:02:58.05,fwgDefault,None,0000,0000,0000,,But the ship is breaking up!
+Dialogue: 0,0:02:58.32,0:03:00.01,fwgDefault,None,0000,0000,0000,,Don't disappoint me!
+Dialogue: 0,0:03:11.50,0:03:12.77,fwgDefault,None,0000,0000,0000,,Can you get us out of here, lad?
+Dialogue: 0,0:03:13.27,0:03:14.18,fwgDefault,None,0000,0000,0000,,Give me a minute.
+Dialogue: 0,0:03:14.47,0:03:15.48,fwgDefault,None,0000,0000,0000,,We don't have a minute.
+Dialogue: 0,0:03:15.92,0:03:17.98,fwgDefault,None,0000,0000,0000,,Oh, then buckle up, Rovers.
+Dialogue: 0,0:03:36.34,0:03:37.89,fwgDefault,None,0000,0000,0000,,Look, Parvo's ship
+Dialogue: 0,0:03:38.21,0:03:39.12,fwgDefault,None,0000,0000,0000,,It is kaputski!
+Dialogue: 0,0:03:39.86,0:03:41.98,fwgDefault,None,0000,0000,0000,,Oh, that is so sad.
+Dialogue: 0,0:03:42.43,0:03:43.11,fwgDefault,None,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:43.60,0:03:44.76,fwgDefault,None,0000,0000,0000,,I broke a nail.
+Dialogue: 0,0:03:45.12,0:03:46.26,fwgDefault,None,0000,0000,0000,,Oh...
+Dialogue: 0,0:03:46.44,0:03:47.83,fwgDefault,,0,0,0,,Let's head home, Rovers.
+Dialogue: 0,0:04:03.20,0:04:05.86,fwgDefault,,0,0,0,,Groomer, we're losing the Rovers!
+Dialogue: 0,0:04:05.89,0:04:07.48,fwgDefault,,0,0,0,,I'm trying, General!
+Dialogue: 0,0:04:07.56,0:04:09.49,fwgDefault,,0,0,0,,Don't try. Do it!
+Dialogue: 0,0:04:18.28,0:04:20.28,fwgDefault,,0,0,0,,I know you're disappointed, General.
+Dialogue: 0,0:04:20.54,0:04:22.88,fwgDefault,,0,0,0,,But I'll make her up to ya, I promise!
+Dialogue: 0,0:04:23.26,0:04:24.43,fwgDefault,,0,0,0,,Actually, Groomer.
+Dialogue: 0,0:04:24.88,0:04:26.88,fwgDefault,,0,0,0,,There's a bright side to all of this.
+Dialogue: 0,0:04:27.38,0:04:28.13,fwgDefault,,0,0,0,,There is?
+Dialogue: 0,0:04:28.40,0:04:31.91,fwgDefault,,0,0,0,,This black hole was exactly\Nwhat I've been looking for.
+Dialogue: 0,0:04:32.11,0:04:34.20,fwgDefault,,0,0,0,,If I can harness its power...
+Dialogue: 0,0:04:34.22,0:04:37.45,fwgDefault,,0,0,0,,I can build a device for\Ntraveling through time.
+Dialogue: 0,0:04:37.63,0:04:39.47,fwgDefault,,0,0,0,,Why would you want to do that?
+Dialogue: 0,0:04:41.18,0:04:42.29,fwgDefault,,0,0,0,,You'll see.
+Dialogue: 0,0:04:43.36,0:04:45.47,fwgDefault,,0,0,0,,Ah, it's great to be home.
+Dialogue: 0,0:04:47.20,0:04:50.71,fwgDefault,,0,0,0,,Now, time for a little\Nzap in the cano-mutator!
+Dialogue: 0,0:04:59.96,0:05:02.58,fwgDefault,,0,0,0,,Oxygen! I need my oxygen!
+Dialogue: 0,0:05:04.54,0:05:07.52,fwgDefault,,0,0,0,,Oh, you've got to stop these\Ntreatments, General!
+Dialogue: 0,0:05:07.71,0:05:09.21,fwgDefault,None,0000,0000,0000,,I don't think they're helping you.
+Dialogue: 0,0:05:12.12,0:05:13.11,fwgDefault,None,0000,0000,0000,,Nonsense.
+Dialogue: 0,0:05:14.19,0:05:16.54,fwgDefault,None,0000,0000,0000,,It's... making me a better man.
+Dialogue: 0,0:05:19.41,0:05:22.33,fwgDefault,None,0000,0000,0000,,Soon, I'll be rid of my former\Nfeline self.
+Dialogue: 0,0:05:22.69,0:05:24.50,fwgDefault,None,0000,0000,0000,,But that's not first priority now.
+Dialogue: 0,0:05:24.81,0:05:26.35,fwgDefault,None,0000,0000,0000,,The time transporter is.
+Dialogue: 0,0:05:26.63,0:05:28.84,fwgDefault,None,0000,0000,0000,,We'll send this little trinket to the past.
+Dialogue: 0,0:05:30.91,0:05:32.84,fwgDefault,None,0000,0000,0000,,Everything's ready for our test, General.
+Dialogue: 0,0:05:33.42,0:05:35.70,fwgDefault,None,0000,0000,0000,,November, 1922.
+Dialogue: 0,0:05:36.35,0:05:38.41,fwgDefault,None,0000,0000,0000,,A wonderful moment in history.
+Dialogue: 0,0:05:39.25,0:05:41.55,fwgDefault,None,0000,0000,0000,,I look a little like an Oscar, don't I?
+Dialogue: 0,0:05:55.16,0:05:56.75,fwgDefault,None,0000,0000,0000,,The Tomb of Tutankhamen.
+Dialogue: 0,0:06:09.80,0:06:10.82,fwgDefault,None,0000,0000,0000,,Who is this guy?
+Dialogue: 0,0:06:16.50,0:06:18.25,fwgDefault,None,0000,0000,0000,,We've succeeded.
+Dialogue: 0,0:06:18.47,0:06:20.30,fwgDefault,None,0000,0000,0000,,As I knew we would.
+Dialogue: 0,0:06:20.66,0:06:22.32,fwgDefault,None,0000,0000,0000,,Groomer, pack my bags.
+Dialogue: 0,0:06:22.62,0:06:26.78,fwgDefault,None,0000,0000,0000,,I'm going back in time, before\NShepherd created those Road Rovers.
+Dialogue: 0,0:06:27.07,0:06:30.40,fwgDefault,None,0000,0000,0000,,Once I destroy him,\Nthere'll be no master,
+Dialogue: 0,0:06:30.56,0:06:33.25,fwgDefault,None,0000,0000,0000,,and there'll be only\None trans-dogmafier!
+Dialogue: 0,0:06:33.45,0:06:34.11,fwgDefault,None,0000,0000,0000,,Mine!
+Dialogue: 0,0:06:34.42,0:06:36.14,fwgDefault,None,0000,0000,0000,,Aye, aye, sir.
+Dialogue: 0,0:06:38.12,0:06:40.24,fwgDefault,None,0000,0000,0000,,One last jolt for the road.
+Dialogue: 0,0:06:58.41,0:07:00.04,fwgDefault,None,0000,0000,0000,,It's Parvo's headquarters.
+Dialogue: 0,0:07:03.97,0:07:05.10,fwgDefault,None,0000,0000,0000,,We found him, crew!
+Dialogue: 0,0:07:30.00,0:07:31.69,fwgDefault,,0,0,0,,Get me out of here, now!
+Dialogue: 0,0:07:32.31,0:07:33.22,fwgDefault,,0,0,0,,General!
+Dialogue: 0,0:07:46.53,0:07:48.12,fwgDefault,,0,0,0,,Hold on, General!
+Dialogue: 0,0:08:10.01,0:08:11.92,fwgDefault,None,0000,0000,0000,,Agh! Stupid cat!
+Dialogue: 0,0:08:19.34,0:08:20.20,fwgDefault,,0,0,0,,Ahh!
+Dialogue: 0,0:08:20.56,0:08:22.33,fwgDefault,,0,0,0,,No! My General!
+Dialogue: 0,0:08:22.66,0:08:23.67,fwgDefault,,0,0,0,,Gone!
+Dialogue: 0,0:08:24.16,0:08:26.26,fwgDefault,,0,0,0,,Forever!
+Dialogue: 0,0:09:17.83,0:09:18.52,fwgDefault,None,0000,0000,0000,,No, Scout.
+Dialogue: 0,0:09:18.97,0:09:20.66,fwgDefault,None,0000,0000,0000,,This cat hasn't done anything wrong.
+Dialogue: 0,0:09:20.69,0:09:22.44,fwgDefault,None,0000,0000,0000,,It's cold and hungry, that's all.
+Dialogue: 0,0:09:25.64,0:09:27.75,fwgDefault,None,0000,0000,0000,,There, there. It's okay, fella.
+Dialogue: 0,0:09:27.98,0:09:29.41,fwgDefault,None,0000,0000,0000,,How about a nice bowl of milk, huh?
+Dialogue: 0,0:09:33.97,0:09:36.51,fwgDefault,None,0000,0000,0000,,See, Scout?\NHe just wants to be friends.
+Dialogue: 0,0:09:39.38,0:09:40.59,fwgDefault,None,0000,0000,0000,,Wait till the kids see you.
+Dialogue: 0,0:09:48.20,0:09:49.17,fwgDefault,None,0000,0000,0000,,Red alert!
+Dialogue: 0,0:09:49.44,0:09:51.56,fwgDefault,None,0000,0000,0000,,Eliminate the opposition! Now!
+Dialogue: 0,0:10:03.16,0:10:04.73,fwgDefault,,0,0,0,,Hello, anyone home?
+Dialogue: 0,0:10:11.96,0:10:13.03,fwgDefault,None,0000,0000,0000,,Hey, I know you!
+Dialogue: 0,0:10:13.05,0:10:15.53,fwgDefault,None,0000,0000,0000,,Didn't we meet on a train one time?\NYou're fluffy!
+Dialogue: 0,0:10:33.47,0:10:34.49,fwgDefault,None,0000,0000,0000,,You're still at it?
+Dialogue: 0,0:10:34.66,0:10:36.22,fwgDefault,None,0000,0000,0000,,I thought you'd be home by now.
+Dialogue: 0,0:10:37.75,0:10:39.81,fwgDefault,None,0000,0000,0000,,What is it with you\Nand that cat, Shepherd?
+Dialogue: 0,0:10:39.83,0:10:42.34,fwgDefault,None,0000,0000,0000,,You've been bringing that stray\Nin to work for the past three weeks.
+Dialogue: 0,0:10:42.99,0:10:43.87,fwgDefault,None,0000,0000,0000,,You mean Boots?
+Dialogue: 0,0:10:44.07,0:10:45.77,fwgDefault,None,0000,0000,0000,,What could I say? He adopted me.
+Dialogue: 0,0:10:51.22,0:10:52.98,fwgDefault,None,0000,0000,0000,,Too bad I'm allergic to cats.
+Dialogue: 0,0:10:53.32,0:10:56.04,fwgDefault,None,0000,0000,0000,,Anyway, I'm close to\Nperfecting the trandogmafier.
+Dialogue: 0,0:10:56.28,0:10:58.83,fwgDefault,None,0000,0000,0000,,Good. That machine's\Ngonna make us rich.
+Dialogue: 0,0:10:59.28,0:11:01.28,fwgDefault,None,0000,0000,0000,,We've been through this before, Jeffrey.
+Dialogue: 0,0:11:01.30,0:11:03.13,fwgDefault,None,0000,0000,0000,,I'm not interested in profit.
+Dialogue: 0,0:11:03.29,0:11:06.30,fwgDefault,None,0000,0000,0000,,The trans dogma fire is meant\Nonly for the good of the world.
+Dialogue: 0,0:11:06.69,0:11:09.71,fwgDefault,None,0000,0000,0000,,Right, right.\NSo when do we start testing it?
+Dialogue: 0,0:11:10.20,0:11:10.79,fwgDefault,None,0000,0000,0000,,Soon.
+Dialogue: 0,0:11:10.94,0:11:13.20,fwgDefault,None,0000,0000,0000,,I've been searching the\Nworld for potential candidates.
+Dialogue: 0,0:11:13.50,0:11:15.04,fwgDefault,None,0000,0000,0000,,And several look very promising.
+Dialogue: 0,0:11:15.80,0:11:17.60,fwgDefault,None,0000,0000,0000,,Very promising indeed.
+Dialogue: 0,0:11:18.01,0:11:21.48,fwgDefault,None,0000,0000,0000,,Just remember, it takes more than\Ndogs to keep this project running.
+Dialogue: 0,0:11:21.60,0:11:23.93,fwgDefault,None,0000,0000,0000,,It takes funding, and lots of it.
+Dialogue: 0,0:11:24.41,0:11:28.17,fwgDefault,None,0000,0000,0000,,And I appreciate all the work you've\Ndone in getting those government grants.
+Dialogue: 0,0:11:28.30,0:11:29.53,fwgDefault,None,0000,0000,0000,,I do what I can.
+Dialogue: 0,0:11:29.98,0:11:31.20,fwgDefault,None,0000,0000,0000,,See you later, Professor.
+Dialogue: 0,0:11:34.16,0:11:36.44,fwgDefault,None,0000,0000,0000,,Dr. Otitis needs to relax, Boats.
+Dialogue: 0,0:11:36.88,0:11:38.14,fwgDefault,None,0000,0000,0000,,Maybe he should get a pet.
+Dialogue: 0,0:11:44.06,0:11:45.88,fwgDefault,None,0000,0000,0000,,I'm telling you, it's a gold mine.
+Dialogue: 0,0:11:46.10,0:11:49.70,fwgDefault,None,0000,0000,0000,,That's right, this transdogmafier\Ncan give dogs awesome abilities.
+Dialogue: 0,0:11:50.05,0:11:52.80,fwgDefault,None,0000,0000,0000,,Sure, I can get the plans to you!\NFor a price!
+Dialogue: 0,0:11:53.52,0:11:55.77,fwgDefault,None,0000,0000,0000,,Professor Shephard?\NHe won't know a thing about it.
+Dialogue: 0,0:11:56.08,0:11:58.20,fwgDefault,None,0000,0000,0000,,Proof?\NOkay, I'll get your proof.
+Dialogue: 0,0:12:00.90,0:12:02.55,fwgDefault,None,0000,0000,0000,,No one trusts anyone anymore.
+Dialogue: 0,0:12:10.76,0:12:11.53,fwgDefault,None,0000,0000,0000,,Here we go.
+Dialogue: 0,0:12:34.75,0:12:36.77,fwgDefault,None,0000,0000,0000,,Oh no, where's that mutt?
+Dialogue: 0,0:12:55.84,0:12:57.17,fwgDefault,None,0000,0000,0000,,This isn't worth it.
+Dialogue: 0,0:12:59.38,0:13:01.16,fwgDefault,None,0000,0000,0000,,Cat, dog, what's the difference?
+Dialogue: 0,0:13:10.07,0:13:12.83,fwgDefault,None,0000,0000,0000,,Scout, Boots, quiet down.\NI'm trying to sleep.
+Dialogue: 0,0:13:19.73,0:13:20.80,fwgDefault,None,0000,0000,0000,,Pipe down!
+Dialogue: 0,0:13:21.37,0:13:22.75,fwgDefault,None,0000,0000,0000,,This won't take long...
+Dialogue: 0,0:13:43.39,0:13:44.50,fwgDefault,,0,0,0,,Meow!
+Dialogue: 0,0:13:45.85,0:13:46.92,fwgDefault,,0,0,0,,What did I do!
+Dialogue: 0,0:13:55.32,0:13:58.12,fwgDefault,,0,0,0,,It's a brand new world.
+Dialogue: 0,0:14:16.11,0:14:18.89,fwgDefault,,0,0,0,,See? I've built the\Ntransdogmafier from memory.
+Dialogue: 0,0:14:19.24,0:14:21.04,fwgDefault,,0,0,0,,You'll have an army of cano-mutants.
+Dialogue: 0,0:14:21.55,0:14:23.37,fwgDefault,,0,0,0,,Are you sure this will work?
+Dialogue: 0,0:14:23.72,0:14:24.91,fwgDefault,,0,0,0,,Yes, Boots!
+Dialogue: 0,0:14:24.99,0:14:26.59,fwgDefault,,0,0,0,,I told you I hate that name!
+Dialogue: 0,0:14:27.03,0:14:28.18,fwgDefault,,0,0,0,,Come up with something better!
+Dialogue: 0,0:14:28.57,0:14:30.00,fwgDefault,,0,0,0,,Yes, sir, whatever you say.
+Dialogue: 0,0:14:30.23,0:14:31.60,fwgDefault,,0,0,0,,Now to try it out.
+Dialogue: 0,0:14:31.82,0:14:33.82,fwgDefault,None,0000,0000,0000,,But first, we need a volunteer.
+Dialogue: 0,0:14:34.20,0:14:36.25,fwgDefault,None,0000,0000,0000,,And I know just the dog.
+Dialogue: 0,0:14:36.89,0:14:38.55,fwgDefault,None,0000,0000,0000,,Shepherd's pet.
+Dialogue: 0,0:14:40.49,0:14:41.11,fwgDefault,None,0000,0000,0000,,Scout?
+Dialogue: 0,0:14:44.41,0:14:46.27,fwgDefault,None,0000,0000,0000,,Jeffrey, what are you doing?
+Dialogue: 0,0:14:46.33,0:14:48.02,fwgDefault,None,0000,0000,0000,,Whatever Boots tells me to do.
+Dialogue: 0,0:14:48.15,0:14:48.81,fwgDefault,None,0000,0000,0000,,Boots?
+Dialogue: 0,0:14:49.07,0:14:49.84,fwgDefault,None,0000,0000,0000,,Boots is back?
+Dialogue: 0,0:14:50.29,0:14:51.80,fwgDefault,None,0000,0000,0000,,Meow.
+Dialogue: 0,0:14:52.37,0:14:55.93,fwgDefault,None,0000,0000,0000,,Yep, the cat came back,\Nnew and improved.
+Dialogue: 0,0:14:56.22,0:14:57.84,fwgDefault,None,0000,0000,0000,,But now I'm a man.
+Dialogue: 0,0:14:58.29,0:14:58.90,fwgDefault,None,0000,0000,0000,,No!
+Dialogue: 0,0:14:59.85,0:15:00.85,fwgDefault,None,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:08.56,0:15:11.41,fwgDefault,None,0000,0000,0000,,The dog's ready for\Nmutation, Boot... eh... sir!
+Dialogue: 0,0:15:19.43,0:15:20.75,fwgDefault,None,0000,0000,0000,,Cano-mutant, huh?
+Dialogue: 0,0:15:26.92,0:15:28.72,fwgDefault,None,0000,0000,0000,,You failed, Otitis.
+Dialogue: 0,0:15:28.92,0:15:31.39,fwgDefault,None,0000,0000,0000,,That dog wasn't transdogmafied.
+Dialogue: 0,0:15:31.68,0:15:33.38,fwgDefault,None,0000,0000,0000,,He's just nuts.
+Dialogue: 0,0:15:33.40,0:15:34.21,fwgDefault,None,0000,0000,0000,,Muzzle him!
+Dialogue: 0,0:15:35.67,0:15:37.31,fwgDefault,None,0000,0000,0000,,Muzzle!\NYou're needed!
+Dialogue: 0,0:15:40.17,0:15:40.64,fwgDefault,,0,0,0,,Hi!
+Dialogue: 0,0:15:40.98,0:15:42.46,fwgDefault,None,0000,0000,0000,,Huntie, can I say it this time?
+Dialogue: 0,0:15:43.04,0:15:45.21,fwgDefault,None,0000,0000,0000,,Okay, but say it like you mean it.
+Dialogue: 0,0:15:45.48,0:15:46.56,fwgDefault,None,0000,0000,0000,,Let's muzzle 'em!
+Dialogue: 0,0:15:49.67,0:15:52.31,fwgDefault,None,0000,0000,0000,,And oh man, there goes our G rating.
+Dialogue: 0,0:15:52.85,0:15:53.43,fwgDefault,None,0000,0000,0000,,Blimey!
+Dialogue: 0,0:15:54.24,0:15:55.31,fwgDefault,None,0000,0000,0000,,Mother Russia!
+Dialogue: 0,0:15:58.03,0:15:59.93,fwgDefault,None,0000,0000,0000,,Score is always same
+Dialogue: 0,0:16:00.18,0:16:02.96,fwgDefault,None,0000,0000,0000,,Bad guys zero, muzzle takes all.
+Dialogue: 0,0:16:07.26,0:16:08.72,fwgDefault,,0,0,0,,Look, it's the Groomer!
+Dialogue: 0,0:16:09.39,0:16:10.40,fwgDefault,None,0000,0000,0000,,Where's she on to?
+Dialogue: 0,0:16:13.38,0:16:15.14,fwgDefault,None,0000,0000,0000,,But Boots, I can build another machine.
+Dialogue: 0,0:16:15.42,0:16:16.86,fwgDefault,None,0000,0000,0000,,You're a complete failure.
+Dialogue: 0,0:16:17.18,0:16:19.09,fwgDefault,None,0000,0000,0000,,It's time to get new help.
+Dialogue: 0,0:16:21.28,0:16:22.64,fwgDefault,None,0000,0000,0000,,Reporting for duty, sir.
+Dialogue: 0,0:16:23.86,0:16:24.66,fwgDefault,None,0000,0000,0000,,Who are you?
+Dialogue: 0,0:16:24.94,0:16:26.27,fwgDefault,None,0000,0000,0000,,They call me the Groomer.
+Dialogue: 0,0:16:26.81,0:16:29.51,fwgDefault,,0,0,0,,I'm here to serve you, General Parvo.
+Dialogue: 0,0:16:29.79,0:16:32.16,fwgDefault,,0,0,0,,General Parvo.
+Dialogue: 0,0:16:32.80,0:16:34.15,fwgDefault,,0,0,0,,I like the sound of that.
+Dialogue: 0,0:16:35.05,0:16:36.78,fwgDefault,,0,0,0,,Somehow I knew you would.
+Dialogue: 0,0:16:37.24,0:16:39.90,fwgDefault,,0,0,0,,Here's your first assignment, Groomer.
+Dialogue: 0,0:16:40.08,0:16:41.52,fwgDefault,,0,0,0,,Dispense with him!
+Dialogue: 0,0:16:42.06,0:16:42.75,fwgDefault,,0,0,0,,Aye, sir!
+Dialogue: 0,0:16:45.15,0:16:46.75,fwgDefault,,0,0,0,,Well you need a little off the top!
+Dialogue: 0,0:16:46.98,0:16:50.27,fwgDefault,,0,0,0,,And the bottom, and all around the edges.
+Dialogue: 0,0:16:50.30,0:16:50.80,fwgDefault,,0,0,0,,No!
+Dialogue: 0,0:16:52.95,0:16:54.18,fwgDefault,,0,0,0,,Should I follow him, sir?
+Dialogue: 0,0:16:54.53,0:16:56.42,fwgDefault,None,0000,0000,0000,,I don't think he'll be back.
+Dialogue: 0,0:16:56.85,0:16:58.85,fwgDefault,None,0000,0000,0000,,I like your style, Groomer.
+Dialogue: 0,0:16:59.10,0:17:01.25,fwgDefault,None,0000,0000,0000,,And I like yours general.
+Dialogue: 0,0:17:01.58,0:17:03.61,fwgDefault,None,0000,0000,0000,,But I'm not so sure about him
+Dialogue: 0,0:17:09.74,0:17:11.38,fwgDefault,,0,0,0,,Listen to this, Shepherd!
+Dialogue: 0,0:17:14.73,0:17:15.73,fwgDefault,,0,0,0,,It'll be okay, Scout.
+Dialogue: 0,0:17:17.05,0:17:17.84,fwgDefault,,0,0,0,,It'll be okay.
+Dialogue: 0,0:17:18.60,0:17:19.89,fwgDefault,None,0000,0000,0000,,Satisfied Shepherd?
+Dialogue: 0,0:17:20.14,0:17:21.87,fwgDefault,None,0000,0000,0000,,I just want Scout back.
+Dialogue: 0,0:17:22.35,0:17:24.20,fwgDefault,None,0000,0000,0000,,That dog means a lot to you. Doesn't he?
+Dialogue: 0,0:17:24.44,0:17:26.50,fwgDefault,None,0000,0000,0000,,He is... he's family.
+Dialogue: 0,0:17:26.98,0:17:29.15,fwgDefault,None,0000,0000,0000,,Well, you can have him\Nback as soon as you hand over
+Dialogue: 0,0:17:29.17,0:17:31.60,fwgDefault,None,0000,0000,0000,,the final blueprints\Nto the Transdogmifier.
+Dialogue: 0,0:17:31.99,0:17:34.54,fwgDefault,None,0000,0000,0000,,Think it over, Professor.\NBut don't take too long.
+Dialogue: 0,0:17:35.16,0:17:36.78,fwgDefault,None,0000,0000,0000,,I might change my mind.
+Dialogue: 0,0:17:38.00,0:17:40.13,fwgDefault,None,0000,0000,0000,,I love being human.
+Dialogue: 0,0:17:42.66,0:17:44.36,fwgDefault,None,0000,0000,0000,,What are those?
+Dialogue: 0,0:17:44.95,0:17:47.09,fwgDefault,None,0000,0000,0000,,Oh, Road Rovers, General.
+Dialogue: 0,0:17:47.24,0:17:48.41,fwgDefault,None,0000,0000,0000,,I'll explain later.
+Dialogue: 0,0:17:48.60,0:17:50.20,fwgDefault,None,0000,0000,0000,,You'd better come back with us, Parvo.
+Dialogue: 0,0:17:50.32,0:17:51.43,fwgDefault,None,0000,0000,0000,,You don't belong here.
+Dialogue: 0,0:17:51.67,0:17:54.36,fwgDefault,None,0000,0000,0000,,I don't take orders from dogs.
+Dialogue: 0,0:18:03.42,0:18:05.19,fwgDefault,None,0000,0000,0000,,Gah, we can't lose that mutt!
+Dialogue: 0,0:18:05.41,0:18:07.23,fwgDefault,None,0000,0000,0000,,It's the only bargaining chip we have.
+Dialogue: 0,0:18:12.78,0:18:14.22,fwgDefault,None,0000,0000,0000,,Follow that Rottweiler.
+Dialogue: 0,0:18:19.46,0:18:21.05,fwgDefault,None,0000,0000,0000,,Let's hit the road, Rovers!
+Dialogue: 0,0:18:36.80,0:18:39.40,fwgDefault,None,0000,0000,0000,,This may not be the time\Nto answer fan mail, Shag.
+Dialogue: 0,0:18:39.43,0:18:40.82,fwgDefault,None,0000,0000,0000,,Uh, It's the past.
+Dialogue: 0,0:18:43.38,0:18:45.78,fwgDefault,None,0000,0000,0000,,No! I'm losing contact with the Rovers.
+Dialogue: 0,0:18:47.08,0:18:49.08,fwgDefault,None,0000,0000,0000,,I have to bring them back to the present.
+Dialogue: 0,0:18:49.67,0:18:50.71,fwgDefault,None,0000,0000,0000,,If I still can.
+Dialogue: 0,0:19:12.64,0:19:13.97,fwgDefault,,0,0,0,,Wow, cool!
+Dialogue: 0,0:19:38.86,0:19:40.77,fwgDefault,None,0000,0000,0000,,Yes, Shepherd.\NI have your dog.
+Dialogue: 0,0:19:44.42,0:19:46.74,fwgDefault,None,0000,0000,0000,,Okay, Parvo.\NI'll give you the blueprints.
+Dialogue: 0,0:19:46.79,0:19:47.99,fwgDefault,None,0000,0000,0000,,All I want is Scout.
+Dialogue: 0,0:19:48.67,0:19:51.08,fwgDefault,None,0000,0000,0000,,We'll do the exchange tomorrow night.
+Dialogue: 0,0:19:51.23,0:19:52.11,fwgDefault,None,0000,0000,0000,,Six o'clock.
+Dialogue: 0,0:19:52.44,0:19:53.48,fwgDefault,,0,0,0,,Your lab.
+Dialogue: 0,0:19:58.35,0:20:01.01,fwgDefault,None,0000,0000,0000,,Don't trust Parvo.\NHe's going to double-cross you.
+Dialogue: 0,0:20:02.07,0:20:02.63,fwgDefault,None,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:04.91,0:20:06.39,fwgDefault,None,0000,0000,0000,,Welcome back to the present.
+Dialogue: 0,0:20:06.54,0:20:07.74,fwgDefault,None,0000,0000,0000,,You did a great job.
+Dialogue: 0,0:20:08.16,0:20:09.70,fwgDefault,None,0000,0000,0000,,But Parvo got away, Master.
+Dialogue: 0,0:20:09.89,0:20:10.85,fwgDefault,None,0000,0000,0000,,We couldn't stop him.
+Dialogue: 0,0:20:11.36,0:20:13.60,fwgDefault,None,0000,0000,0000,,Yes, but you still saved my life.
+Dialogue: 0,0:20:14.22,0:20:15.81,fwgDefault,None,0000,0000,0000,,We did?\NHow?
+Dialogue: 0,0:20:16.44,0:20:17.16,fwgDefault,None,0000,0000,0000,,With this.
+Dialogue: 0,0:20:19.95,0:20:22.10,fwgDefault,None,0000,0000,0000,,Master, don't trust Parvo.
+Dialogue: 0,0:20:22.18,0:20:23.53,fwgDefault,None,0000,0000,0000,,He's going to double-cross you.
+Dialogue: 0,0:20:23.85,0:20:25.40,fwgDefault,None,0000,0000,0000,,Love, Shag.
+Dialogue: 0,0:20:26.01,0:20:28.95,fwgDefault,None,0000,0000,0000,,Shag, you got a way with words.
+Dialogue: 0,0:20:31.70,0:20:33.96,fwgDefault,None,0000,0000,0000,,Come on!\NWe can still make our tea off time.
+Dialogue: 0,0:20:37.83,0:20:39.25,fwgDefault,None,0000,0000,0000,,You're good dogs.
+Dialogue: 0,0:20:51.00,0:20:52.46,fwgDefault,None,0000,0000,0000,,One more passable, Gracie.
+Dialogue: 0,0:21:12.32,0:21:14.70,fwgDefault,None,0000,0000,0000,,You're good, good dogs.
