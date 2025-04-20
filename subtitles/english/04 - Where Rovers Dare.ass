@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Original Script: unipoco
 ScriptType: v4.00+
 Collisions: Normal
@@ -36,7 +36,7 @@ Dialogue: 0,0:00:46.81,0:00:50.05,fwgDefault,None,0000,0000,0000,,Shag is strong
 Dialogue: 0,0:00:50.82,0:00:54.07,fwgDefault,None,0000,0000,0000,,Muzzle's stack is gonna\Nblow, he's short a screw or two
 Dialogue: 0,0:00:54.55,0:00:58.00,fwgDefault,None,0000,0000,0000,,They fight for right both day\Nand night in every episode
 Dialogue: 0,0:00:58.02,0:00:58.76,fwgDefault,None,0000,0000,0000,,Let's roll!
-Dialogue: 0,0:00:58.78,0:01:00.49,fwgDefault,None,0000,0000,0000,,Now it's time to hit the road
+Dialogue: 0,0:00:58.78,0:01:00.58,fwgDefault,None,0000,0000,0000,,Now it's time to hit the road
 Dialogue: 0,0:01:00.84,0:01:02.77,fwgDefault,None,0000,0000,0000,,Road Rovers!
 Dialogue: 0,0:01:07.42,0:01:10.31,fwgDefault,None,0000,0000,0000,,Centuries ago, the\Nnations of Katzenstok
 Dialogue: 0,0:01:10.33,0:01:14.48,fwgDefault,None,0000,0000,0000,,and Eisneria lived side by side\Nin peaceful coexistence.
@@ -48,7 +48,7 @@ Dialogue: 0,0:01:28.94,0:01:30.65,fwgDefault,None,0000,0000,0000,,as did their g
 Dialogue: 0,0:01:31.14,0:01:32.79,fwgDefault,None,0000,0000,0000,,And the peace was washed away
 Dialogue: 0,0:01:33.34,0:01:34.95,fwgDefault,None,0000,0000,0000,,apparently forever.
 Dialogue: 0,0:01:37.40,0:01:40.53,fwgDefault,None,0000,0000,0000,,The only surviving remnant\Nof these ancient days is..
-Dialogue: 0,0:01:40.55,0:01:42.69,fwgDefault,None,0000,0000,0000,,the priceless Scepter of the Valley,
+Dialogue: 0,0:01:40.55,0:01:42.69,fwgDefault,None,0000,0000,0000,,The priceless Scepter of the Valley,
 Dialogue: 0,0:01:43.27,0:01:45.48,fwgDefault,None,0000,0000,0000,,long enshrined in\NKatzenstok's capital.
 Dialogue: 0,0:01:46.24,0:01:47.64,fwgDefault,None,0000,0000,0000,,But the Scepter has been...
 Dialogue: 0,0:01:48.08,0:01:48.89,fwgDefault,None,0000,0000,0000,,Stolen!
@@ -96,7 +96,7 @@ Dialogue: 0,0:05:18.06,0:05:19.03,fwgDefault,None,0000,0000,0000,,Never heard of
 Dialogue: 0,0:05:22.28,0:05:24.09,fwgDefault,None,0000,0000,0000,,This is making me see red!
 Dialogue: 0,0:05:29.06,0:05:31.41,fwgDefault,None,0000,0000,0000,,They'll be singing\Nsoprano into their 80s.
 Dialogue: 0,0:05:32.04,0:05:32.51,fwgDefault,None,0000,0000,0000,,Good.
-Dialogue: 0,0:05:32.71,0:05:34.34,fwgDefault,None,0000,0000,0000,,We Russians love the opera.
+Dialogue: 0,0:05:32.71,0:05:34.69,fwgDefault,None,0000,0000,0000,,We Russians love the opera.
 Dialogue: 0,0:05:42.97,0:05:43.88,fwgDefault,None,0000,0000,0000,,Hey, Blitz.
 Dialogue: 0,0:05:44.09,0:05:45.98,fwgDefault,None,0000,0000,0000,,How you doing there, Muzzle?
 Dialogue: 0,0:05:47.22,0:05:47.92,fwgDefault,None,0000,0000,0000,,You been here long?
@@ -115,19 +115,17 @@ Dialogue: 0,0:06:10.66,0:06:13.13,fwgDefault,None,0000,0000,0000,,we'll have a r
 Dialogue: 0,0:06:13.56,0:06:15.71,fwgDefault,None,0000,0000,0000,,I love it when you talk to me.
 Dialogue: 0,0:06:16.05,0:06:17.35,fwgDefault,None,0000,0000,0000,,Have we been introduced?
 Dialogue: 0,0:06:17.57,0:06:19.30,fwgDefault,None,0000,0000,0000,,Sure, you know me.
-Dialogue: 0,0:06:19.78,0:06:21.20,fwgDefault,None,0000,0000,0000,,Oh, right.
-Dialogue: 0,0:06:21.20,0:06:23.15,fwgDefault,None,0000,0000,0000,,Your name is...\NNo, no, don't say it.
+Dialogue: 0,0:06:19.78,0:06:21.18,fwgDefault,None,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:06:21.20,0:06:23.12,fwgDefault,None,0000,0000,0000,,Your name is...\NNo, no, don't say it.
 Dialogue: 0,0:06:23.15,0:06:23.68,fwgDefault,None,0000,0000,0000,,Let me think.
 Dialogue: 0,0:06:24.44,0:06:25.02,fwgDefault,None,0000,0000,0000,,Blister?
 Dialogue: 0,0:06:25.04,0:06:25.60,fwgDefault,None,0000,0000,0000,,No.
 Dialogue: 0,0:06:25.62,0:06:26.08,fwgDefault,None,0000,0000,0000,,Blighter.
 Dialogue: 0,0:06:26.34,0:06:27.18,fwgDefault,None,0000,0000,0000,,Blitz.
-Dialogue: 0,0:06:27.82,0:06:28.34,fwgDefault,None,0000,0000,0000,,No, no, no.
-Dialogue: 0,0:06:28.34,0:06:28.92,fwgDefault,None,0000,0000,0000,,That's not it.
+Dialogue: 0,0:06:27.82,0:06:28.92,fwgDefault,None,0000,0000,0000,,No, no, no.\NThat's not it.
 Dialogue: 0,0:06:29.23,0:06:29.70,fwgDefault,None,0000,0000,0000,,Bloaty?
 Dialogue: 0,0:06:42.46,0:06:44.53,fwgDefault,None,0000,0000,0000,,Oh, I definitely\Nwant one of those!
-Dialogue: 0,0:06:44.75,0:06:45.56,fwgDefault,None,0000,0000,0000,,Cool!
-Dialogue: 0,0:06:45.58,0:06:46.33,fwgDefault,None,0000,0000,0000,,Me too!
+Dialogue: 0,0:06:44.75,0:06:46.33,fwgDefault,None,0000,0000,0000,,Cool!\NMe too!
 Dialogue: 0,0:06:54.86,0:06:56.46,fwgDefault,None,0000,0000,0000,,I'd also like a parachute.
 Dialogue: 0,0:06:57.00,0:06:57.88,fwgDefault,None,0000,0000,0000,,Anything we can do?
 Dialogue: 0,0:06:58.56,0:07:00.61,fwgDefault,None,0000,0000,0000,,Yeah, get ready to crash!
@@ -148,7 +146,7 @@ Dialogue: 0,0:08:30.70,0:08:34.18,fwgDefault,None,0000,0000,0000,,Ohh, here's so
 Dialogue: 0,0:09:12.69,0:09:13.65,fwgDefault,None,0000,0000,0000,,They went into the village
 Dialogue: 0,0:09:13.87,0:09:16.10,fwgDefault,None,0000,0000,0000,,Surround the perimeter,\Nand search every building.
 Dialogue: 0,0:09:16.42,0:09:17.59,fwgDefault,None,0000,0000,0000,,They're around here somewhere.
-Dialogue: 0,0:09:29.22,0:09:31.12,fwgDefault,None,0000,0000,0000,,Oh, brilliant.
+Dialogue: 0,0:09:29.22,0:09:31.10,fwgDefault,None,0000,0000,0000,,Oh, brilliant.
 Dialogue: 0,0:09:31.12,0:09:33.27,fwgDefault,None,0000,0000,0000,,The place is\Ncrawling with rebels.
 Dialogue: 0,0:09:33.60,0:09:35.01,fwgDefault,None,0000,0000,0000,,We'll lay low till nightfall.
 Dialogue: 0,0:09:35.18,0:09:36.53,fwgDefault,None,0000,0000,0000,,We can sneak out once it's dark.
@@ -175,12 +173,12 @@ Dialogue: 0,0:10:33.66,0:10:34.81,fwgDefault,None,0000,0000,0000,,They're a leth
 Dialogue: 0,0:10:35.23,0:10:38.73,fwgDefault,None,0000,0000,0000,,led by a real troublemaker by\Nthe name of Colonel Gustav Havoc.
 Dialogue: 0,0:10:39.38,0:10:40.15,fwgDefault,None,0000,0000,0000,,Idiots.
 Dialogue: 0,0:10:40.38,0:10:41.70,fwgDefault,None,0000,0000,0000,,Now let me get this straight.
-Dialogue: 0,0:10:41.82,0:10:43.73,fwgDefault,None,0000,0000,0000,,We steal the Scepter of the Valley
+Dialogue: 0,0:10:41.78,0:10:43.73,fwgDefault,None,0000,0000,0000,,We steal the Scepter of the Valley
 Dialogue: 0,0:10:43.80,0:10:47.40,fwgDefault,None,0000,0000,0000,,in order to throw Katzenstok\Nand Eisneria into war.
 Dialogue: 0,0:10:47.60,0:10:52.06,fwgDefault,None,0000,0000,0000,,And then the scepter is taken\Nfrom us by a pack of dogs?
 Dialogue: 0,0:10:53.44,0:10:55.37,fwgDefault,None,0000,0000,0000,,They were talking dogs, sir.
 Dialogue: 0,0:10:55.86,0:10:58.41,fwgDefault,None,0000,0000,0000,,I don't care if they\Nwere singing dogs!
-Dialogue: 0,0:10:58.91,0:11:01.87,fwgDefault,None,0000,0000,0000,,I don't care if they were\Nsinging the theme from {\i1}Cats{\i0} !
+Dialogue: 0,0:10:58.91,0:11:01.87,fwgDefault,None,0000,0000,0000,,I don't care if they were\Nsinging the theme from {\i1}Cats{\i0}!
 Dialogue: 0,0:11:02.34,0:11:04.86,fwgDefault,None,0000,0000,0000,,I want that scepter!
 Dialogue: 0,0:11:05.06,0:11:05.56,fwgDefault,None,0000,0000,0000,,Yes, sir!
 Dialogue: 0,0:11:05.93,0:11:08.33,fwgDefault,None,0000,0000,0000,,We have the Rovers surrounded\Nin the village of Moosk.
@@ -250,7 +248,7 @@ Dialogue: 0,0:14:39.46,0:14:39.96,fwgDefault,None,0000,0000,0000,,Thank you.
 Dialogue: 0,0:14:41.92,0:14:43.25,fwgDefault,None,0000,0000,0000,,Alright everybody,\Nwe're running late.
 Dialogue: 0,0:14:43.57,0:14:45.37,fwgDefault,None,0000,0000,0000,,Grab a quick bite to eat\Nand get ready to move out.
 Dialogue: 0,0:14:49.22,0:14:50.06,fwgDefault,None,0000,0000,0000,,There you go, muzzle.
-Dialogue: 0,0:14:51.95,0:14:53.11,fwgDefault,None,0000,0000,0000,,Hey, Blitz,\Nyou want a biscuit?
+Dialogue: 0,0:14:51.95,0:14:53.11,fwgDefault,None,0000,0000,0000,,Hey, Blitz, you want a biscuit?
 Dialogue: 0,0:14:53.29,0:14:53.84,fwgDefault,None,0000,0000,0000,,Tanks.
 Dialogue: 0,0:14:53.98,0:14:54.74,fwgDefault,None,0000,0000,0000,,You're welcome.
 Dialogue: 0,0:14:54.89,0:14:55.96,fwgDefault,None,0000,0000,0000,,No, tanks.!
@@ -265,7 +263,6 @@ Dialogue: 0,0:15:05.66,0:15:07.21,fwgDefault,None,0000,0000,0000,,No! Tanks!
 Dialogue: 0,0:15:08.04,0:15:09.94,fwgDefault,,0,0,0,,Well, make up your mind!
 Dialogue: 0,0:15:21.16,0:15:24.37,fwgDefault,None,0000,0000,0000,,Oh, ho-ho-ho, tanks!\NNow I get it.
 Dialogue: 0,0:15:24.66,0:15:25.73,fwgDefault,None,0000,0000,0000,,Funny.
-Dialogue: 0,0:15:26.56,0:15:26.58,fwgDefault,None,0000,0000,0000,, D
 Dialogue: 0,0:15:27.86,0:15:29.68,fwgDefault,,0,0,0,,Ach du Lieber! Run!
 Dialogue: 0,0:16:18.95,0:16:20.22,fwgDefault,,0,0,0,,Let's hit the road, Rovers.
 Dialogue: 0,0:16:25.56,0:16:26.77,fwgDefault,,0,0,0,,Hunter, do everything!
@@ -307,6 +304,6 @@ Dialogue: 0,0:20:16.34,0:20:18.70,fwgDefault,None,0000,0000,0000,,Katzenstok ret
 Dialogue: 0,0:20:18.99,0:20:22.90,fwgDefault,,0,0,0,,to its original place of honor\Nwhere it had rested years ago.
 Dialogue: 0,0:20:25.22,0:20:27.38,fwgDefault,None,0000,0000,0000,,To our future of friendship.
 Dialogue: 0,0:20:39.29,0:20:42.32,fwgDefault,None,0000,0000,0000,,The nations were once\Nagain united in peace.
-Dialogue: 0,0:20:42.76,0:20:46.42,fwgDefault,None,0000,0000,0000,,and the region became known\Nas the happiest place on earth.
+Dialogue: 0,0:20:42.76,0:20:46.42,fwgDefault,None,0000,0000,0000,,And the region became known\Nas the happiest place on earth.
 Dialogue: 0,0:20:46.94,0:20:48.97,fwgDefault,None,0000,0000,0000,,Thanks to the Road Rovers.
 Dialogue: 0,0:20:49.74,0:20:52.33,fwgDefault,None,0000,0000,0000,,You're good, good dogs.
