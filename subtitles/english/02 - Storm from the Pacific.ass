@@ -51,7 +51,7 @@ Dialogue: 0,0:02:53.91,0:02:55.37,fwgDefault,None,0000,0000,0000,,I love that ma
 Dialogue: 0,0:02:55.89,0:02:56.92,fwgDefault,None,0000,0000,0000,,Eat up, muzzle.
 Dialogue: 0,0:02:57.84,0:02:58.90,fwgDefault,None,0000,0000,0000,,Want some more?
 Dialogue: 0,0:03:01.24,0:03:02.41,fwgDefault,None,0000,0000,0000,,There's a good boy!
-Dialogue: 0,0:03:06.14,0:03:08.05,fwgDefault,None,0000,0000,0000,,Hey Colleen, Muzzle,\Nhow's is it waggin'?
+Dialogue: 0,0:03:06.14,0:03:08.05,fwgDefault,None,0000,0000,0000,,Hey Colleen, Muzzle,\Nhow's it waggin'?
 Dialogue: 0,0:03:08.49,0:03:10.07,fwgDefault,None,0000,0000,0000,,Don't know if that's\Nany of your business.
 Dialogue: 0,0:03:10.98,0:03:12.60,fwgDefault,None,0000,0000,0000,,Hey, what you got\Nin the bowl, Exile?
 Dialogue: 0,0:03:13.99,0:03:15.39,fwgDefault,None,0000,0000,0000,,Shag has done it again.
@@ -169,7 +169,7 @@ Dialogue: 0,0:08:53.74,0:08:58.77,fwgDefault,None,0000,0000,0000,,Fly like a... 
 Dialogue: 0,0:08:59.09,0:09:00.69,fwgDefault,None,0000,0000,0000,,Wow, Exile.
 Dialogue: 0,0:09:00.69,0:09:02.34,fwgDefault,None,0000,0000,0000,,You have a way with words.
 Dialogue: 0,0:09:02.47,0:09:03.90,fwgDefault,None,0000,0000,0000,,Thank you, it is gift.
-Dialogue: 0,0:09:11.99,0:09:13.69,fwgDefault,None,0000,0000,0000,,Hit him with the\Nanti-aircraft lasers!
+Dialogue: 0,0:09:11.99,0:09:13.69,fwgDefault,None,0000,0000,0000,,Hit 'em with the\Nanti-aircraft lasers!
 Dialogue: 0,0:09:14.01,0:09:14.88,fwgDefault,None,0000,0000,0000,,You bet-ski!
 Dialogue: 0,0:09:18.81,0:09:19.69,fwgDefault,None,0000,0000,0000,,Shag, get ready!
 Dialogue: 0,0:09:23.49,0:09:24.18,fwgDefault,None,0000,0000,0000,,Take aim!
@@ -294,7 +294,7 @@ Dialogue: 0,0:16:53.61,0:16:55.26,fwgDefault,None,0000,0000,0000,,An uncontrolla
 Dialogue: 0,0:16:56.48,0:16:58.31,fwgDefault,None,0000,0000,0000,,Hey!\NWe need Muzzle!
 Dialogue: 0,0:17:04.58,0:17:05.10,fwgDefault,,0,0,0,,Now!
 Dialogue: 0,0:17:07.19,0:17:07.97,fwgDefault,None,0000,0000,0000,,All right, buddy.
-Dialogue: 0,0:17:08.25,0:17:08.94,fwgDefault,None,0000,0000,0000,,Muzzle off!
+Dialogue: 0,0:17:08.25,0:17:08.94,fwgDefault,None,0000,0000,0000,,Muzzle 'em!
 Dialogue: 0,0:17:18.36,0:17:20.44,fwgDefault,,0,0,0,,Eww, gross!
 Dialogue: 0,0:17:23.80,0:17:26.40,fwgDefault,None,0000,0000,0000,,Oh Muzzle take it easy! Eww!
 Dialogue: 0,0:17:27.05,0:17:28.33,fwgDefault,None,0000,0000,0000,,Okay, that's enough for me.
@@ -314,14 +314,14 @@ Dialogue: 0,0:18:44.65,0:18:46.50,fwgDefault,None,0000,0000,0000,,Colleen and Bl
 Dialogue: 0,0:18:47.45,0:18:48.96,fwgDefault,None,0000,0000,0000,,Wait, where's Muzzle?
 Dialogue: 0,0:18:52.77,0:18:53.60,fwgDefault,None,0000,0000,0000,,Oh no.
 Dialogue: 0,0:18:54.20,0:18:55.13,fwgDefault,None,0000,0000,0000,,Where are you going?
-Dialogue: 0,0:18:55.60,0:18:57.34,fwgDefault,None,0000,0000,0000,,Mussel's my pal,\NI gotta save him!
+Dialogue: 0,0:18:55.60,0:18:57.34,fwgDefault,None,0000,0000,0000,,Muzzle's my pal,\NI gotta save him!
 Dialogue: 0,0:18:57.44,0:18:58.62,fwgDefault,None,0000,0000,0000,,You'll never make it!
 Dialogue: 0,0:18:58.88,0:19:00.18,fwgDefault,None,0000,0000,0000,,Hey, I have no choice!
 Dialogue: 0,0:19:00.40,0:19:01.02,fwgDefault,None,0000,0000,0000,,Why?
 Dialogue: 0,0:19:01.65,0:19:03.53,fwgDefault,None,0000,0000,0000,,It's one of my\Npowers, I'm super loyal!
 Dialogue: 0,0:19:21.66,0:19:23.04,fwgDefault,,0,0,0,,Exile, what do you see?
 Dialogue: 0,0:19:24.03,0:19:26.66,fwgDefault,None,0000,0000,0000,,I'm afraid my comrades are lost.
-Dialogue: 0,0:19:40.47,0:19:43.91,fwgDefault,None,0000,0000,0000,,Well, Mussel, I don't know which of\Nmy superpowers can save us this time.
+Dialogue: 0,0:19:40.47,0:19:43.91,fwgDefault,None,0000,0000,0000,,Well, Muzzle, I don't know which of\Nmy superpowers can save us this time.
 Dialogue: 0,0:19:50.26,0:19:51.93,fwgDefault,None,0000,0000,0000,,Oh yeah, I almost forgot that one!
 Dialogue: 0,0:19:52.28,0:19:54.53,fwgDefault,None,0000,0000,0000,,I'm super, super lucky!
 Dialogue: 0,0:20:01.00,0:20:02.52,fwgDefault,None,0000,0000,0000,,Let's take it home Rovers!

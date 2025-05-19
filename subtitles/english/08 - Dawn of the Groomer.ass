@@ -49,7 +49,7 @@ Dialogue: 0,0:01:55.30,0:01:57.27,fwgDefault,None,0000,0000,0000,,No, the mummie
 Dialogue: 0,0:01:57.44,0:02:01.28,fwgDefault,None,0000,0000,0000,,You must finish the ritual,\Nso we can live forever!
 Dialogue: 0,0:02:04.44,0:02:07.25,fwgDefault,None,0000,0000,0000,,No!
 Dialogue: 0,0:02:46.72,0:02:48.31,fwgDefault,None,0000,0000,0000,,Let me drive, Colleen.\NPlease!
-Dialogue: 0,0:02:48.65,0:02:49.92,fwgDefault,None,0000,0000,0000,,Oh, back down, Huntie!
+Dialogue: 0,0:02:48.65,0:02:49.92,fwgDefault,None,0000,0000,0000,,Oh, pipe down, Huntie!
 Dialogue: 0,0:02:50.17,0:02:51.65,fwgDefault,None,0000,0000,0000,,It's my turn and you know it.
 Dialogue: 0,0:02:51.87,0:02:52.73,fwgDefault,None,0000,0000,0000,,Look out!
 Dialogue: 0,0:02:56.13,0:02:57.15,fwgDefault,None,0000,0000,0000,,That was close.
@@ -103,7 +103,7 @@ Dialogue: 0,0:06:41.78,0:06:43.46,fwgDefault,None,0000,0000,0000,,Oh General!
 Dialogue: 0,0:06:44.38,0:06:47.46,fwgDefault,None,0000,0000,0000,,I told you, I hate cats!
 Dialogue: 0,0:06:47.61,0:06:52.09,fwgDefault,None,0000,0000,0000,,Dogs can be transmutated\Nand trained, but not cats!
 Dialogue: 0,0:06:53.38,0:06:54.72,fwgDefault,None,0000,0000,0000,,Get rid of them!
-Dialogue: 0,0:06:56.24,0:06:58.61,fwgDefault,None,0000,0000,0000,,General, they'll make powerful soldiers.
+Dialogue: 0,0:06:55.67,0:06:58.61,fwgDefault,None,0000,0000,0000,,But General, they'll make powerful soldiers.
 Dialogue: 0,0:06:58.63,0:07:00.63,fwgDefault,None,0000,0000,0000,,Just look at the claws in this one.
 Dialogue: 0,0:07:01.10,0:07:04.39,fwgDefault,None,0000,0000,0000,,They're smart, strong, agile...
 Dialogue: 0,0:07:04.47,0:07:06.37,fwgDefault,None,0000,0000,0000,,And unpredictable.
@@ -136,7 +136,7 @@ Dialogue: 0,0:09:23.17,0:09:23.77,fwgDefault,None,0000,0000,0000,,Parvo.
 Dialogue: 0,0:09:24.33,0:09:25.58,fwgDefault,None,0000,0000,0000,,Two points for the winner.
 Dialogue: 0,0:09:39.33,0:09:40.20,fwgDefault,None,0000,0000,0000,,Bull's eyeball.
 Dialogue: 0,0:09:40.73,0:09:42.25,fwgDefault,None,0000,0000,0000,,Easy as cupcake.
-Dialogue: 0,0:09:42.49,0:09:43.62,fwgDefault,None,0000,0000,0000,,Eat some beam!
+Dialogue: 0,0:09:42.49,0:09:43.62,fwgDefault,None,0000,0000,0000,,Piece of bean.
 Dialogue: 0,0:09:48.82,0:09:49.56,fwgDefault,None,0000,0000,0000,,Боже мой! (my god!)
 Dialogue: 0,0:09:49.59,0:09:51.29,fwgDefault,None,0000,0000,0000,,My icemaker's on the fritz!
 Dialogue: 0,0:10:00.93,0:10:02.51,fwgDefault,None,0000,0000,0000,,Yes! Cats hate water!
@@ -196,7 +196,7 @@ Dialogue: 0,0:14:11.97,0:14:12.64,fwgDefault,None,0000,0000,0000,,Thank you!
 Dialogue: 0,0:14:12.99,0:14:15.09,fwgDefault,None,0000,0000,0000,,You... you spoke to me!
 Dialogue: 0,0:14:15.28,0:14:17.62,fwgDefault,None,0000,0000,0000,,Sorry, I'm drawing a blank.
 Dialogue: 0,0:14:18.07,0:14:18.70,fwgDefault,None,0000,0000,0000,,You are…
-Dialogue: 0,0:14:24.91,0:14:27.90,fwgDefault,,0,0,0,,Scare the bloomin' fur right\Noff my eye, why don't you!
+Dialogue: 0,0:14:24.91,0:14:27.90,fwgDefault,,0,0,0,,Scare the bloomin' fur right\Noff me hide, why don't you!
 Dialogue: 0,0:14:32.44,0:14:34.04,fwgDefault,None,0000,0000,0000,,This is not my cup of tea.
 Dialogue: 0,0:14:39.12,0:14:41.27,fwgDefault,None,0000,0000,0000,,The empress awaits you.
 Dialogue: 0,0:14:41.68,0:14:42.72,fwgDefault,None,0000,0000,0000,,Empress?
