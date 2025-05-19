@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 Original Script: unipoco
 ScriptType: v4.00+
 Collisions: Normal
@@ -107,7 +107,7 @@ Dialogue: 0,0:09:19.10,0:09:21.52,fwgDefault,None,0000,0000,0000,,But first, I w
 Dialogue: 0,0:09:22.00,0:09:22.74,fwgDefault,None,0000,0000,0000,,Yes, sir!
 Dialogue: 0,0:09:24.11,0:09:24.52,fwgDefault,None,0000,0000,0000,,Well, hi.
 Dialogue: 0,0:09:24.97,0:09:25.42,fwgDefault,None,0000,0000,0000,,Hello.
-Dialogue: 0,0:09:25.44,0:09:26.04,fwgDefault,None,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:09:25.44,0:09:26.04,fwgDefault,None,0000,0000,0000,,Nice to smell you.
 Dialogue: 0,0:09:26.09,0:09:26.93,fwgDefault,None,0000,0000,0000,,Nice to meet you too.
 Dialogue: 0,0:09:27.45,0:09:28.02,fwgDefault,None,0000,0000,0000,,Hi there.
 Dialogue: 0,0:09:28.06,0:09:32.87,fwgDefault,None,0000,0000,0000,,（dogs greetings）
@@ -120,7 +120,7 @@ Dialogue: 0,0:09:59.54,0:10:02.34,fwgDefault,None,0000,0000,0000,,Colleen the co
 Dialogue: 0,0:10:02.94,0:10:04.82,fwgDefault,None,0000,0000,0000,,Hello there pretty dog girl.
 Dialogue: 0,0:10:07.43,0:10:09.12,fwgDefault,None,0000,0000,0000,,Oh, dreadfully sorry.
 Dialogue: 0,0:10:09.51,0:10:12.43,fwgDefault,None,0000,0000,0000,,Exile, the husky, for\Nhis strength and vision.
-Dialogue: 0,0:10:13.25,0:10:15.67,fwgDefault,None,0000,0000,0000,,I can't feel you.
+Dialogue: 0,0:10:13.25,0:10:15.67,fwgDefault,None,0000,0000,0000,,I can see you.
 Dialogue: 0,0:10:16.94,0:10:19.75,fwgDefault,None,0000,0000,0000,,And Shag, the sheepdog,\Nfor his incredible bravery.
 Dialogue: 0,0:10:21.80,0:10:24.30,fwgDefault,None,0000,0000,0000,,Well, I got four out of\Nfive right, so sue me.
 Dialogue: 0,0:10:24.95,0:10:26.36,fwgDefault,None,0000,0000,0000,,Aw, poor fella.
@@ -147,7 +147,7 @@ Dialogue: 0,0:11:28.44,0:11:31.27,fwgDefault,None,0000,0000,0000,,In the wrong h
 Dialogue: 0,0:11:32.14,0:11:34.20,fwgDefault,None,0000,0000,0000,,these monsters must be stopped
 Dialogue: 0,0:11:34.93,0:11:37.37,fwgDefault,None,0000,0000,0000,,So Rovers, do you understand your mission?
 Dialogue: 0,0:11:37.57,0:11:38.35,fwgDefault,None,0000,0000,0000,,Yes sir!
-Dialogue: 0,0:11:38.88,0:11:41.01,fwgDefault,None,0000,0000,0000,,Do you realize you will face grave danger?
+Dialogue: 0,0:11:38.88,0:11:41.01,fwgDefault,None,0000,0000,0000,,Do you realize you will face great danger?
 Dialogue: 0,0:11:41.55,0:11:42.30,fwgDefault,None,0000,0000,0000,,Yes sir!
 Dialogue: 0,0:11:42.59,0:11:43.96,fwgDefault,None,0000,0000,0000,,Do you realize that some of you
 Dialogue: 0,0:11:43.99,0:11:45.18,fwgDefault,None,0000,0000,0000,,may not return alive
@@ -164,7 +164,7 @@ Dialogue: 0,0:12:25.20,0:12:26.70,fwgDefault,None,0000,0000,0000,,What's in it f
 Dialogue: 0,0:12:27.22,0:12:30.40,fwgDefault,None,0000,0000,0000,,For your services, I will give\Nyou each three meals a day,
 Dialogue: 0,0:12:30.48,0:12:33.71,fwgDefault,None,0000,0000,0000,,a weekly bath, and a carpet\Nby the fire where you can sleep.
 Dialogue: 0,0:12:34.96,0:12:35.76,fwgDefault,None,0000,0000,0000,,Do we have a deal?
-Dialogue: 0,0:12:43.39,0:12:44.81,fwgDefault,None,0000,0000,0000,,Hey!\NA carpet by the fire?
+Dialogue: 0,0:12:43.39,0:12:44.81,fwgDefault,None,0000,0000,0000,,Hey!\NA carpet by the fire.
 Dialogue: 0,0:12:45.10,0:12:46.37,fwgDefault,None,0000,0000,0000,,Change it to a sofa.
 Dialogue: 0,0:12:46.68,0:12:48.95,fwgDefault,None,0000,0000,0000,,You will stay off the sofa!
 Dialogue: 0,0:12:50.27,0:12:53.67,fwgDefault,None,0000,0000,0000,,Okay, okay, off the sofa,\Nyeah, the carpet is fine, alright.
@@ -240,9 +240,10 @@ Dialogue: 0,0:17:44.54,0:17:45.58,fwgDefault,None,0000,0000,0000,,This can't be.
 Dialogue: 0,0:17:45.98,0:17:47.41,fwgDefault,None,0000,0000,0000,,More Cano-sapiens.
 Dialogue: 0,0:17:47.60,0:17:51.11,fwgDefault,None,0000,0000,0000,,Only one other person knew\Nthe technology and he's long gone.
 Dialogue: 0,0:17:52.23,0:17:52.90,fwgDefault,None,0000,0000,0000,,Or is he?
-Dialogue: 0,0:18:02.49,0:18:03.93,fwgDefault,,0,0,0,,Chope! Shih Tzu!
+Dialogue: 0,0:17:58.12,0:18:01.40,fwgDefault,,0,0,0,,Aiya! Akita!
+Dialogue: 0,0:18:02.49,0:18:03.93,fwgDefault,,0,0,0,,Drop it! Shih Tzu!
 Dialogue: 0,0:18:03.98,0:18:04.65,fwgDefault,None,0000,0000,0000,,Heel!
-Dialogue: 0,0:18:05.60,0:18:08.13,fwgDefault,,0,0,0,,Rin! Tin! Tin! Hiyah!
+Dialogue: 0,0:18:05.60,0:18:08.13,fwgDefault,,0,0,0,,Rin! Tin! Tin! Stand up!
 Dialogue: 0,0:18:08.45,0:18:10.49,fwgDefault,,0,0,0,,Roll over! Play dead!
 Dialogue: 0,0:18:10.66,0:18:12.40,fwgDefault,,0,0,0,,Ai-yah-yah-yah!
 Dialogue: 0,0:18:14.92,0:18:17.06,fwgDefault,None,0000,0000,0000,,Was the "Ai-yah-yah-yah" part from Karate?
